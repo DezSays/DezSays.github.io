@@ -11,7 +11,7 @@
                 {
                 "position":1,
                 "question": "This method checks whether an object is an array",
-                "answer": "isarray"
+                "answer": "isArray"
                 },
                 {
                 "position":2,
@@ -182,7 +182,7 @@
             {
             "position":3,
             "question": "This method searches the array for an element, starting at the end, and returns its position",
-            "answer": "lastindexof"
+            "answer": "lastIndexOf"
             }
         ]}    
     ]}
