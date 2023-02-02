@@ -185,5 +185,69 @@
             "answer": "lastIndexOf"
             }
         ]}    
-    ]}
+    ]},
+    "http_request_methods" : {
+        "level" : [
+            {
+                "one" : [
+                    {
+                        "position": 0,
+                        "question": "The -BLANK- method requests a representation of the specified resource. Requests using -BLANK- should only retrieve data.",
+                        "answer":"GET"
+                    },
+                    {
+                        "position": 1,
+                        "question": "The -BLANK- method deletes the specified resource.",
+                        "answer": "DELETE"
+                    }
+            ]},
+            {
+                "two": [
+                    {
+                        "position": 0,
+                        "question": "The -BLANK- method submits an entity to the specified resource, often causing a change in state or side effects on the server.",
+                        "answer":"POST"
+                    }
+            ]},
+            {
+                "three": [
+                    {
+                        "position": 0,
+                        "question": "The -BLANK- method replaces all current representations of the target resource with the request payload.",
+                        "answer":"PUT"
+                    }
+            ]},
+            {
+                "four": [
+                    {
+                        "position": 0,
+                        "question": "The -BLANK- method asks for a response identical to a GET request, but without the response body.",
+                        "answer":"HEAD"
+                    }
+            ]},
+            {
+                "five": [
+                    {
+                        "position": 0,
+                        "question": "The -BLANK- method applies partial modifications to a resource.",
+                        "answer":"PATCH"
+                    },
+                    {
+                        "position": 1,
+                        "question": "The -BLANK- method performs a message loop-back test along the path to the target resource.",
+                        "answer":"TRACE"
+                    },
+                    {
+                        "position": 2,
+                        "question": "The -BLANK- method describes the communication options for the target resource.",
+                        "answer":"OPTIONS"
+                    },
+                    {
+                        "position": 3,
+                        "question": "The -BLANK- method establishes a tunnel to the server identified by the target resource.",
+                        "answer":"CONNECT"
+                    }
+            ]}
+
+        ]}
 }
