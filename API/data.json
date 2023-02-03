@@ -1,253 +1,313 @@
 {
-    "javascript_array_methods" : {
-        "level": [
-            {
-            "one" : [
-                {
-                "position":0,
-                "question": "This method joins arrays and returns an array with the joined arrays",
-                "answer": "concat"
-                },
-                {
-                "position":1,
-                "question": "This method checks whether an object is an array",
-                "answer": "isArray"
-                },
-                {
-                "position":2,
-                "question": "This property sets or returns the number of elements in an array",
-                "answer": "length"
-                },
-                {
-                "position":3,
-                "question": "This method joins all elements of an array into a string",
-                "answer": "join"
-                },
-                {
-                "position":4,
-                "question": "This method removes the last element of an array, and returns that element",
-                "answer": "pop"
-                },
-                {
-                "position":5,
-                "question": "This method adds new elements to the end of an array, and returns the new length",
-                "answer": "push"
-                },
-                {
-                "position":6,
-                "question": "This method reverses the order of the elements in an array",
-                "answer": "reverse"
-                },
-                {
-                "position":7,
-                "question": "This method sorts the elements of an array",
-                "answer": "sort"
-                },
-                {
-                "position":8,
-                "question": "This method converts an array to a string, and returns the result",
-                "answer": "toString"
-                }
-            ]},
+  "javascript_array_methods": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "This method joins arrays and returns an array with the joined arrays",
+            "answer": "concat"
+          },
+          {
+            "position": 1,
+            "question": "This method checks whether an object is an array",
+            "answer": "isArray"
+          },
+          {
+            "position": 2,
+            "question": "This property sets or returns the number of elements in an array",
+            "answer": "length"
+          },
+          {
+            "position": 3,
+            "question": "This method joins all elements of an array into a string",
+            "answer": "join"
+          },
+          {
+            "position": 4,
+            "question": "This method removes the last element of an array, and returns that element",
+            "answer": "pop"
+          },
+          {
+            "position": 5,
+            "question": "This method adds new elements to the end of an array, and returns the new length",
+            "answer": "push"
+          },
+          {
+            "position": 6,
+            "question": "This method reverses the order of the elements in an array",
+            "answer": "reverse"
+          },
+          {
+            "position": 7,
+            "question": "This method sorts the elements of an array",
+            "answer": "sort"
+          },
+          {
+            "position": 8,
+            "question": "This method converts an array to a string, and returns the result",
+            "answer": "toString"
+          }
+        ]
+      },
 
-            {
-            "two": [
-                {
-                "position":0,
-                "question": "This method checks if every element in an array pass a test",
-                "answer": "every"
-                },
-                {
-                "position":1,
-                "question": "This method creates a new array with every element in an array that pass a test",
-                "answer": "filter"
-                },
-                {
-                "position":2,
-                "question": "This method check if an array contains the specified element",
-                "answer": "includes"
-                },
-                {
-                "position":3,
-                "question": "This method calls a function for each array element",
-                "answer": "forEach"
-                },
-                {
-                "position":4,
-                "question": "This method searches the array for an element and returns its position",
-                "answer": "indexOf"
-                },
-                {
-                "position":5,
-                "question": "This method creates a new array with the result of calling a function for each array element",
-                "answer": "map"
-                },
-                {
-                "position":6,
-                "question": "This method removes the first element of an array, and returns that element",
-                "answer": "shift"
-                },
-                {
-                "position":7,
-                "question": "This method selects a part of an array, and returns the new array",
-                "answer": "slice"
-                }
-            ]},
-                 
-           {
-            "three": [
-                {
-                "position":0,
-                "question": "This method returns the primitive value of an array",
-                "answer": "valueOf"
-                },
-                {
-                "position":1,
-                "question": "This method adds new elements to the beginning of an array, and returns the new length",
-                "answer": "unshift"
-                },
-                {
-                "position":2,
-                "question": "This method adds/removes elements from an array",
-                "answer": "splice"
-                },
-                {
-                "position":3,
-                "question": "This method checks if any of the elements in an array pass a test",
-                "answer": "some"
-                },
-                {
-                "position":4,
-                "question": "This method returns the index of the first element in an array that pass a test",
-                "answer": "findIndex"
-                },
-                {
-                "position":5,
-                "question": "This method returns the value of the first element in an array that pass a test",
-                "answer": "find"
-                },
-                {
-                "position":6,
-                "question": "This method fills the elements in an array with a static value",
-                "answer": "fill"
-                }
-            ]},
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "This method checks if every element in an array pass a test",
+            "answer": "every"
+          },
+          {
+            "position": 1,
+            "question": "This method creates a new array with every element in an array that pass a test",
+            "answer": "filter"
+          },
+          {
+            "position": 2,
+            "question": "This method check if an array contains the specified element",
+            "answer": "includes"
+          },
+          {
+            "position": 3,
+            "question": "This method calls a function for each array element",
+            "answer": "forEach"
+          },
+          {
+            "position": 4,
+            "question": "This method searches the array for an element and returns its position",
+            "answer": "indexOf"
+          },
+          {
+            "position": 5,
+            "question": "This method creates a new array with the result of calling a function for each array element",
+            "answer": "map"
+          },
+          {
+            "position": 6,
+            "question": "This method removes the first element of an array, and returns that element",
+            "answer": "shift"
+          },
+          {
+            "position": 7,
+            "question": "This method selects a part of an array, and returns the new array",
+            "answer": "slice"
+          }
+        ]
+      },
 
-            {
-            "four": [
-                {
-                "position":0,
-                "question": "This method reduce the values of an array to a single value (going right-to-left)",
-                "answer": "reduceRight"
-                },
-                {
-                "position":1,
-                "question": "This method reduce the values of an array to a single value (going left-to-right)",
-                "answer": "reduce"
-                },
-                {
-                "position":2,
-                "question": "This method creates an array from an object",
-                "answer": "from"
-                },
-                {
-                "position":3,
-                "question": "This method copies array elements within the array, to and from specified positions",
-                "answer": "copyWithin"
-                },
-                {
-                "position":4,
-                "question": "This property returns the function that created the Array object's prototype",
-                "answer": "constructor"
-                }
-            ]},
-        
-            {
-            "five": [
-            {
-            "position":0,
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "This method returns the primitive value of an array",
+            "answer": "valueOf"
+          },
+          {
+            "position": 1,
+            "question": "This method adds new elements to the beginning of an array, and returns the new length",
+            "answer": "unshift"
+          },
+          {
+            "position": 2,
+            "question": "This method adds/removes elements from an array",
+            "answer": "splice"
+          },
+          {
+            "position": 3,
+            "question": "This method checks if any of the elements in an array pass a test",
+            "answer": "some"
+          },
+          {
+            "position": 4,
+            "question": "This method returns the index of the first element in an array that pass a test",
+            "answer": "findIndex"
+          },
+          {
+            "position": 5,
+            "question": "This method returns the value of the first element in an array that pass a test",
+            "answer": "find"
+          },
+          {
+            "position": 6,
+            "question": "This method fills the elements in an array with a static value",
+            "answer": "fill"
+          }
+        ]
+      },
+
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "This method reduce the values of an array to a single value (going right-to-left)",
+            "answer": "reduceRight"
+          },
+          {
+            "position": 1,
+            "question": "This method reduce the values of an array to a single value (going left-to-right)",
+            "answer": "reduce"
+          },
+          {
+            "position": 2,
+            "question": "This method creates an array from an object",
+            "answer": "from"
+          },
+          {
+            "position": 3,
+            "question": "This method copies array elements within the array, to and from specified positions",
+            "answer": "copyWithin"
+          },
+          {
+            "position": 4,
+            "question": "This property returns the function that created the Array object's prototype",
+            "answer": "constructor"
+          }
+        ]
+      },
+
+      {
+        "five": [
+          {
+            "position": 0,
             "question": "This method returns a key/value pair Array Iteration Object",
             "answer": "entries"
-            },
-            {
-            "position":1,
+          },
+          {
+            "position": 1,
             "question": "This property allows you to add properties and methods to an Array object",
             "answer": "prototype"
-            },
-            {
-            "position":2,
+          },
+          {
+            "position": 2,
             "question": "This method returns a Array Iteration Object, containing the keys of the original array",
             "answer": "keys"
-            },
-            {
-            "position":3,
+          },
+          {
+            "position": 3,
             "question": "This method searches the array for an element, starting at the end, and returns its position",
             "answer": "lastIndexOf"
-            }
-        ]}    
-    ]},
-    "http_request_methods" : {
-        "level" : [
-            {
-                "one" : [
-                    {
-                        "position": 0,
-                        "question": "The -BLANK- method requests a representation of the specified resource. Requests using -BLANK- should only retrieve data.",
-                        "answer":"GET"
-                    },
-                    {
-                        "position": 1,
-                        "question": "The -BLANK- method deletes the specified resource.",
-                        "answer": "DELETE"
-                    }
-            ]},
-            {
-                "two": [
-                    {
-                        "position": 0,
-                        "question": "The -BLANK- method submits an entity to the specified resource, often causing a change in state or side effects on the server.",
-                        "answer":"POST"
-                    }
-            ]},
-            {
-                "three": [
-                    {
-                        "position": 0,
-                        "question": "The -BLANK- method replaces all current representations of the target resource with the request payload.",
-                        "answer":"PUT"
-                    }
-            ]},
-            {
-                "four": [
-                    {
-                        "position": 0,
-                        "question": "The -BLANK- method asks for a response identical to a GET request, but without the response body.",
-                        "answer":"HEAD"
-                    }
-            ]},
-            {
-                "five": [
-                    {
-                        "position": 0,
-                        "question": "The -BLANK- method applies partial modifications to a resource.",
-                        "answer":"PATCH"
-                    },
-                    {
-                        "position": 1,
-                        "question": "The -BLANK- method performs a message loop-back test along the path to the target resource.",
-                        "answer":"TRACE"
-                    },
-                    {
-                        "position": 2,
-                        "question": "The -BLANK- method describes the communication options for the target resource.",
-                        "answer":"OPTIONS"
-                    },
-                    {
-                        "position": 3,
-                        "question": "The -BLANK- method establishes a tunnel to the server identified by the target resource.",
-                        "answer":"CONNECT"
-                    }
-            ]}
-
-        ]}
+          }
+        ]
+      }
+    ]
+  },
+  "http_request_methods": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "The -BLANK- method requests a representation of the specified resource. Requests using -BLANK- should only retrieve data.",
+            "answer": "GET"
+          },
+          {
+            "position": 1,
+            "question": "The -BLANK- method deletes the specified resource.",
+            "answer": "DELETE"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "The -BLANK- method submits an entity to the specified resource, often causing a change in state or side effects on the server.",
+            "answer": "POST"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "The -BLANK- method replaces all current representations of the target resource with the request payload.",
+            "answer": "PUT"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "The -BLANK- method asks for a response identical to a GET request, but without the response body.",
+            "answer": "HEAD"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "The -BLANK- method applies partial modifications to a resource.",
+            "answer": "PATCH"
+          },
+          {
+            "position": 1,
+            "question": "The -BLANK- method performs a message loop-back test along the path to the target resource.",
+            "answer": "TRACE"
+          },
+          {
+            "position": 2,
+            "question": "The -BLANK- method describes the communication options for the target resource.",
+            "answer": "OPTIONS"
+          },
+          {
+            "position": 3,
+            "question": "The -BLANK- method establishes a tunnel to the server identified by the target resource.",
+            "answer": "CONNECT"
+          }
+        ]
+      }
+    ]
+  },
+  "javascript_error_types": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "an error when trying to interpret syntactically invalid code",
+            "answer": "SyntaxError"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "thrown when trying to pass a value as an argument to a function that does not allow a range that includes the value",
+            "answer": "RangeError"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "an error when an operation could not be performed, typically (but not exclusively) when a value is not of the expected type",
+            "answer": "TypeError"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "an error when trying to intan error when a variable that doesn't exist (or hasn't yet been initialized) in the current scope is referenced",
+            "answer": "ReferenceError"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "represents an error when a global URI handling function was used in a wrong way",
+            "answer": "URIError"
+          }
+        ]
+      }
+    ]
+  }
 }
