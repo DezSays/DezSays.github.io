@@ -309,5 +309,138 @@
         ]
       }
     ]
+  },
+  "pg_promise_query_methods": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "This query method expects one row or errors out. This query method is db.BLANK()",
+            "answer": "one"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "This query method expects no rows or results, to be resolved with null. This query method is db.BLANK()",
+            "answer": "none"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "This query method expects one or more rows. This query method is db.BLANK()",
+            "answer": "many"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "This query method has no expectations. This query method is db.BLANK()",
+            "answer": "any"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "This query method returns the raw results, useful for insert, update, and deletes. This query method is db.BLANK()",
+            "answer": "result"
+          }
+        ]
+      }
+    ]
+  },
+  "server_error_http_status_codes": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "Internal Server Error",
+            "answer": "500"
+          },
+          {
+            "position": 1,
+            "question": "Bad Gateway",
+            "answer": "502"
+          },
+          {
+            "position": 2,
+            "question": "Network Authentication Required",
+            "answer": "511"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "Service Unavailable",
+            "answer": "503"
+          },
+          {
+            "position": 1,
+            "question": "Gateway Timeout",
+            "answer": "504"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "Not Implemented",
+            "answer": "501"
+          },
+          {
+            "position": 1,
+            "question": "HTTP Version Not Supported",
+            "answer": "505"
+          },
+          {
+            "position": 2,
+            "question": "Network Connect Timeout Error",
+            "answer": "599"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "Insufficient Storage",
+            "answer": "507"
+          },
+          {
+            "position": 1,
+            "question": "Loop Detected",
+            "answer": "508"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "Variant Also Negotiates",
+            "answer": "506"
+          },
+          {
+            "position": 1,
+            "question": "Not Extended",
+            "answer": "510"
+          }
+        ]
+      }
+    ]
   }
 }
