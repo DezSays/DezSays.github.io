@@ -442,5 +442,590 @@
         ]
       }
     ]
+  },
+  "client_error_http_status_codes": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "Bad Request",
+            "answer": "400"
+          },
+          {
+            "position": 1,
+            "question": "Unauthorized",
+            "answer": "401"
+          },
+          {
+            "position": 2,
+            "question": "Not Found",
+            "answer": "404"
+          },
+          {
+            "position": 3,
+            "question": "Forbidden",
+            "answer": "403"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "Unsupported Media Type ",
+            "answer": "415"
+          },
+          {
+            "position": 1,
+            "question": "Conflict",
+            "answer": "409"
+          },
+          {
+            "position": 2,
+            "question": "Request Timeout",
+            "answer": "408"
+          },
+          {
+            "position": 3,
+            "question": "Proxy Authentication Required",
+            "answer": "407"
+          },
+          {
+            "position": 4,
+            "question": "Payment Required",
+            "answer": "402"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "Locked",
+            "answer": "423"
+          },
+          {
+            "position": 1,
+            "question": "Expectation Failed",
+            "answer": "417"
+          },
+          {
+            "position": 2,
+            "question": "Requested Range Not Satisfiable",
+            "answer": "416"
+          },
+          {
+            "position": 3,
+            "question": "Payload Too Large",
+            "answer": "413"
+          },
+          {
+            "position": 4,
+            "question": "Precondition Failed",
+            "answer": "412"
+          },
+          {
+            "position": 5,
+            "question": "Length Required",
+            "answer": "411"
+          },
+          {
+            "position": 6,
+            "question": "Gone",
+            "answer": "410"
+          },
+          {
+            "position": 7,
+            "question": "Not Acceptable",
+            "answer": "406"
+          },
+          {
+            "position": 8,
+            "question": "Method Not Allowed",
+            "answer": "405"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "Connection Closed Without Response",
+            "answer": "444"
+          },
+          {
+            "position": 1,
+            "question": "Request Header Fields Too Large",
+            "answer": "431"
+          },
+          {
+            "position": 2,
+            "question": "Too Many Requests",
+            "answer": "429"
+          },
+          {
+            "position": 3,
+            "question": "Precondition Required",
+            "answer": "428"
+          },
+          {
+            "position": 4,
+            "question": "Upgrade Required",
+            "answer": "426"
+          },
+          {
+            "position": 5,
+            "question": "Failed Dependency",
+            "answer": "424"
+          },
+          {
+            "position": 6,
+            "question": "Unprocessable Entity",
+            "answer": "422"
+          },
+          {
+            "position": 7,
+            "question": "Misdirected Request",
+            "answer": "421"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "Request-URI Too Long",
+            "answer": "414"
+          },
+          {
+            "position": 1,
+            "question": "Client Closed Request",
+            "answer": "499"
+          },
+          {
+            "position": 2,
+            "question": "Unavailable For Legal Reasons",
+            "answer": "451"
+          },
+          {
+            "position": 3,
+            "question": "I'm a teapot",
+            "answer": "418"
+          }
+        ]
+      }
+    ]
+  },
+  "redirection_http_status_codes": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "Moved Permanently",
+            "answer": "301"
+          },
+          {
+            "position": 1,
+            "question": "Found",
+            "answer": "302"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "Use Proxy",
+            "answer": "305"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "Temporary Redirect",
+            "answer": "307"
+          },
+          {
+            "position": 1,
+            "question": "Permanent Redirect",
+            "answer": "308"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "See Other",
+            "answer": "303"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "Multiple Choices",
+            "answer": "300"
+          },
+          {
+            "position": 1,
+            "question": "Not Modified",
+            "answer": "304"
+          }
+        ]
+      }
+    ]
+  },
+  "javascript_types": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "The BLANK type is used to represent textual data",
+            "answer": "String"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "The BLANK type represents a logical entity and can have two values: true and false",
+            "answer": "Boolean"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK type has exactly one value: null",
+            "answer": "Null"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "The BLANK type represents both integer and floating point numbers",
+            "answer": "Number"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "The BLANK type has a variable that has not been assigned a value",
+            "answer": "Undefined"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "The BLANK type has a unique and immutable primitive value and may be used as the key of an Object property",
+            "answer": "Symbol"
+          },
+          {
+            "position": 0,
+            "question": "The BLANK type has a numeric primitive in JavaScript that can represent integers with arbitrary precision",
+            "answer": "BigInt"
+          }
+        ]
+      }
+    ]
+  },
+  "informational_and_success_http_status_codes": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "Continue",
+            "answer": "100"
+          },
+          {
+            "position": 1,
+            "question": "Ok",
+            "answer": "200"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "Processing",
+            "answer": "102"
+          },
+          {
+            "position": 1,
+            "question": "Created",
+            "answer": "201"
+          },
+          {
+            "position": 2,
+            "question": "Accepted",
+            "answer": "202"
+          },
+          {
+            "position": 3,
+            "question": "Reset Content",
+            "answer": "205"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "Already Reported",
+            "answer": "208"
+          },
+          {
+            "position": 1,
+            "question": "No Content",
+            "answer": "204"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "Switching Protocols",
+            "answer": "101"
+          },
+          {
+            "position": 1,
+            "question": "Partial Content",
+            "answer": "206"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "Non-authoritative Information",
+            "answer": "203"
+          },
+          {
+            "position": 1,
+            "question": "Multi-Status",
+            "answer": "207"
+          },
+          {
+            "position": 2,
+            "question": "IM Used",
+            "answer": "226"
+          }
+        ]
+      }
+    ]
+  },
+  "python_list_methods": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "The BLANK() method sorts the list",
+            "answer": "sort"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method returns the index of the first element with the specified value",
+            "answer": "index"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "The BLANK() method adds an element at the end of the list",
+            "answer": "append"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method removes the element at the specified position",
+            "answer": "pop"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method reverses the order of the list",
+            "answer": "reverse"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns a copy of the list",
+            "answer": "copy"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method returns the number of elements with the specified value",
+            "answer": "count"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method adds an element at the specified position",
+            "answer": "insert"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "The BLANK() method removes all the elements from the list",
+            "answer": "clear"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method removes the first item with the specified value",
+            "answer": "remove"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "The BLANK() method adds the elements of a list (or any iterable), to the end of the current list",
+            "answer": "extend"
+          }
+        ]
+      }
+    ]
+  },
+  "javascript_math_methods": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns the value of a number rounded to the nearest integer ",
+            "answer": "round"
+          },
+          {
+            "position": 0,
+            "question": "The BLANK() method returns the smallest of zero or more numbers",
+            "answer": "min"
+          },
+          {
+            "position": 0,
+            "question": "The BLANK() method returns the largest of zero or more numbers",
+            "answer": "max"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns the square root of a number",
+            "answer": "sqrt"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method returns the largest integer less than or equal to a number",
+            "answer": "floor"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns the absolute value of a number",
+            "answer": "abs"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method returns a pseudo-random number between 0 and 1",
+            "answer": "random"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns the tangent of a number",
+            "answer": "tan"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method returns the cosine of a number",
+            "answer": "cos"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns the smallest integer greater than or equal to a number",
+            "answer": "ceil"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method returns base to the exponent power, that is, base exponent",
+            "answer": "pow"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns the arctangent of the quotient of its arguments",
+            "answer": "atan2"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method returns the arctangent (in radians) of a number",
+            "answer": "atan"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns the arcsine (in radians) of a number",
+            "answer": "asin"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method returns the arccosine (in radians) of a number",
+            "answer": "acos"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method returns the sine of a number",
+            "answer": "sin"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns the natural logarithm (base E) of a number",
+            "answer": "log"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method returns E^N, where N is the argument, and E is Euler's constant, the base of the natural logarithm",
+            "answer": "exp"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns the string 'Math'",
+            "answer": "toSource"
+          }
+        ]
+      }
+    ]
   }
+  
 }
