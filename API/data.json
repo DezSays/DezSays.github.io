@@ -1200,7 +1200,1097 @@
         ]
       }
     ]
+  },
+  "git_basics": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "The git BLANK command is used to upload local repository content to a remote repository",
+            "answer": "push"
+          },
+          {
+            "position": 1,
+            "question": "git BLANK is used to stage a file",
+            "answer": "add"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "git BLANK creates a repository in Git",
+            "answer": "init"
+          },
+          {
+            "position": 1,
+            "question": "git BLANK will pull files from a remote repository",
+            "answer": "pull"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "git BLANK checks the status of staged files",
+            "answer": "status"
+          },
+          {
+            "position": 1,
+            "question": "BLANK is a cloud-based hosting service that lets you manage Git repositories",
+            "answer": "GitHub"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "git BLANK is primarily used to point to an existing repo and make a copy of that repo at in a new directory, at another location",
+            "answer": "clone"
+          },
+          {
+            "position": 1,
+            "question": "BLANK is a version control system that lets you manage and keep track of your source code history",
+            "answer": "Git"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "The git BLANK command is a convenience function that is used to set Git configuration values on a global or local project level",
+            "answer": "config"
+          },
+          {
+            "position": 1,
+            "question": "git BLANK is used to review the repository log",
+            "answer": "log"
+          }
+        ]
+      }
+    ]
+  },
+  "cli_basics": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "BLANK is the command to change the working directory",
+            "answer": "cd"
+          },
+          {
+            "position": 1,
+            "question": "BLANK is the command to list contents of a directory",
+            "answer": "ls"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is the command to create a new directory",
+            "answer": "mkdir"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "BLANK is the command to return to your home directory",
+            "answer": "cd ~"
+          },
+          {
+            "position": 1,
+            "question": "BLANK is the command to return to a previous directory",
+            "answer": "cd .."
+          },
+          {
+            "position": 2,
+            "question": "BLANK is the command that allows you to clear the terminal",
+            "answer": "clear"
+          },
+          {
+            "position": 3,
+            "question": "BLANK is the command that allows you to do any command as an administrator (hint superuser)",
+            "answer": "sudo"
+          },
+          {
+            "position": 4,
+            "question": "BLANK is the command to remove a file or directory",
+            "answer": "rm"
+          },
+          {
+            "position": 5,
+            "question": "BLANK is the command line utility for printing the current working directory",
+            "answer": "pwd"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "BLANK is the command to view the history or previous commands",
+            "answer": "history"
+          },
+          {
+            "position": 1,
+            "question": "BLANK is the command that allows you to copy a file or directory",
+            "answer": "cp"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is the command to move a file or directory",
+            "answer": "mv"
+          },
+          {
+            "position": 3,
+            "question": "BLANK is the key that allows you to autocomplete",
+            "answer": "tab"
+          },
+          {
+            "position": 4,
+            "question": "ctrl BLANK will force quit a process",
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "BLANK is the command that will allow you to view manual",
+            "answer": "man"
+          },
+          {
+            "position": 1,
+            "question": "ctrl BLANK will reverse search through your history",
+            "answer": "r"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "BLANK is the command to search a file or directory",
+            "answer": "grep"
+          },
+          {
+            "position": 1,
+            "question": "ctrl BLANK allows you to exit (common on interactive interfaces, example: python)",
+            "answer": "d"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is the command that interactively show contents of a file",
+            "answer": "less"
+          },
+          {
+            "position": 3,
+            "question": "BLANK is the command to dump contents of a file to output",
+            "answer": "cat"
+          }
+        ]
+      }
+    ]
+  },
+  "sql_keywords": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "Inserts new rows in a table",
+            "answer": "INSERT INTO"
+          },
+          {
+            "position": 1,
+            "question": "Filters a result set to include only records that fulfill a specified condition",
+            "answer": "WHERE"
+          },
+          {
+            "position": 2,
+            "question": "Updates existing rows in a table",
+            "answer": "UPDATE"
+          },
+          {
+            "position": 3,
+            "question": "Creates a new SQL database",
+            "answer": "CREATE DATABASE"
+          },
+          {
+            "position": 4,
+            "question": "Selects data from a database",
+            "answer": "SELECT"
+          },
+          {
+            "position": 5,
+            "question": "Specifies which table to select or delete data from",
+            "answer": "FROM"
+          },
+          {
+            "position": 6,
+            "question": "Adds a column in an existing table",
+            "answer": "ADD"
+          },
+          {
+            "position": 7,
+            "question": "Deletes an existing SQL database",
+            "answer": "DROP DATABASE"
+          },
+          {
+            "position": 8,
+            "question": "Creates a database, index, view, table, or procedure",
+            "answer": "CREATE"
+          },
+          {
+            "position": 9,
+            "question": "Deletes rows from a table",
+            "answer": "DELETE"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "Adds, deletes, or modifies columns in a table, or changes the data type of a column in a table",
+            "answer": "ALTER"
+          },
+          {
+            "position": 1,
+            "question": "Changes the data type of a column in a table",
+            "answer": "ALTER COLUMN"
+          },
+          {
+            "position": 2,
+            "question": "Adds, deletes, or modifies columns in a table",
+            "answer": "ALTER TABLE"
+          },
+          {
+            "position": 3,
+            "question": "Deletes a column, constraint, database, index, table, or view",
+            "answer": "DROP"
+          },
+          {
+            "position": 4,
+            "question": "Creates an index on a table (allows duplicate values)",
+            "answer": "CREATE INDEX"
+          },
+          {
+            "position": 5,
+            "question": "Includes rows where either condition is true",
+            "answer": "OR"
+          },
+          {
+            "position": 6,
+            "question": "Sorts the result set in ascending or descending order",
+            "answer": "ORDER BY"
+          },
+          {
+            "position": 7,
+            "question": "Creates a table, or adds, deletes, or modifies columns in a table, or deletes a table or data inside a table",
+            "answer": "TABLE"
+          },
+          {
+            "position": 8,
+            "question": "A constraint that ensures that all values in a column are unique",
+            "answer": "UNIQUE"
+          },
+          {
+            "position": 9,
+            "question": "A constraint that uniquely identifies each record in a database table",
+            "answer": "PRIMARY KEY"
+          },
+          {
+            "position": 10,
+            "question": "Specifies the values of an INSERT INTO statement",
+            "answer": "VALUES"
+          },
+          {
+            "position": 11,
+            "question": "Joins tables",
+            "answer": "JOIN"
+          },
+          {
+            "position": 12,
+            "question": "Deletes a column in a table",
+            "answer": "DROP COLUMNL"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "Only includes rows where both conditions is true",
+            "answer": "AND"
+          },
+          {
+            "position": 1,
+            "question": "Renames a column or table with an alias",
+            "answer": "AS"
+          },
+          {
+            "position": 2,
+            "question": "Sorts the result set in ascending order",
+            "answer": "ASC"
+          },
+          {
+            "position": 3,
+            "question": "Selects values within a given range",
+            "answer": "BETWEEN"
+          },
+          {
+            "position": 4,
+            "question": "A constraint that provides a default value for a column",
+            "answer": "DEFAULT"
+          },
+          {
+            "position": 5,
+            "question": "Changes the data type of a column or deletes a column in a table",
+            "answer": "COLUMN"
+          },
+          {
+            "position": 6,
+            "question": "Groups the result set (used with aggregate functions: COUNT, MAX, MIN, SUM, AVG)",
+            "answer": "GROUP BY"
+          },
+          {
+            "position": 7,
+            "question": "Deletes a UNIQUE, PRIMARY KEY, FOREIGN KEY, or CHECK constraint",
+            "answer": "DROP CONSTRAINT"
+          },
+          {
+            "position": 8,
+            "question": "Creates or deletes an index in a table",
+            "answer": "INDEX"
+          },
+          {
+            "position": 9,
+            "question": "Creates a new table in the database",
+            "answer": "CREATE TABLE"
+          },
+          {
+            "position": 10,
+            "question": "Deletes a view",
+            "answer": "DROP VIEW"
+          },
+          {
+            "position": 11,
+            "question": "Deletes an existing table in the database",
+            "answer": "DROP TABLE"
+          },
+          {
+            "position": 12,
+            "question": "Deletes an index in a table",
+            "answer": "DROP INDEX"
+          },
+          {
+            "position": 13,
+            "question": "A constraint that is a key used to link two tables together",
+            "answer": "FOREIGN KEY"
+          },
+          {
+            "position": 14,
+            "question": "Deletes a DEFAULT constraint",
+            "answer": "DROP DEFAULT"
+          },
+          {
+            "position": 15,
+            "question": "Selects only distinct (different) values",
+            "answer": "SELECT DISTINCT"
+          },
+          {
+            "position": 16,
+            "question": "A constraint that enforces a column to not accept NULL values",
+            "answer": "NOT NULL"
+          },
+          {
+            "position": 17,
+            "question": "Only includes rows where a condition is not true",
+            "answer": "NOT"
+          },
+          {
+            "position": 18,
+            "question": "Specifies the number of records to return in the result set",
+            "answer": "LIMIT"
+          },
+          {
+            "position": 19,
+            "question": "Returns all rows from the left table, and the matching rows from the right table",
+            "answer": "LEFT JOIN"
+          },
+          {
+            "position": 20,
+            "question": "Tests for non-empty values",
+            "answer": "IS NOT NULL"
+          },
+          {
+            "position": 21,
+            "question": "Tests for empty values",
+            "answer": "IS NULL"
+          },
+          {
+            "position": 22,
+            "question": "Copies data from one table into another table",
+            "answer": "INSERT INTO SELECT"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "Adds a constraint after a table is already created",
+            "answer": "ADD CONSTRAINT"
+          },
+          {
+            "position": 1,
+            "question": "Returns true if all of the subquery values meet the condition",
+            "answer": "ALL"
+          },
+          {
+            "position": 2,
+            "question": "Returns true if any of the subquery values meet the condition",
+            "answer": "ANY"
+          },
+          {
+            "position": 3,
+            "question": "Creates a back up of an existing database",
+            "answer": "BACKUP DATABASE"
+          },
+          {
+            "position": 4,
+            "question": "Creates different outputs based on conditions",
+            "answer": "CASE"
+          },
+          {
+            "position": 5,
+            "question": "Adds or deletes a constraint",
+            "answer": "CONSTRAINT"
+          },
+          {
+            "position": 6,
+            "question": "Updates a view",
+            "answer": "REPLACE VIEW"
+          },
+          {
+            "position": 7,
+            "question": "Creates a stored procedure",
+            "answer": "CREATE PROCEDURE"
+          },
+          {
+            "position": 8,
+            "question": "Creates a view based on the result set of a SELECT statement",
+            "answer": "CREATE VIEW"
+          },
+          {
+            "position": 9,
+            "question": "Allows you to specify multiple values in a WHERE clause",
+            "answer": "IN"
+          },
+          {
+            "position": 10,
+            "question": "Sorts the result set in descending order",
+            "answer": "DESC"
+          },
+          {
+            "position": 11,
+            "question": "Copies data from one table into a new table",
+            "answer": "SELECT INTO"
+          },
+          {
+            "position": 12,
+            "question": "Returns rows that have matching values in both tables",
+            "answer": "INNER JOIN"
+          },
+          {
+            "position": 13,
+            "question": "Creates, updates, or deletes a view",
+            "answer": "VIEW"
+          },
+          {
+            "position": 14,
+            "question": "Specifies which columns and values that should be updated in a table",
+            "answer": "SET"
+          },
+          {
+            "position": 15,
+            "question": "Returns all rows from the right table, and the matching rows from the left table",
+            "answer": "RIGHT JOIN"
+          },
+          {
+            "position": 16,
+            "question": "Searches for a specified pattern in a column",
+            "answer": "LIKE"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "Selects only distinct (different) values",
+            "answer": "DISTINCT"
+          },
+          {
+            "position": 1,
+            "question": "Creates a unique index on a table (no duplicate values)",
+            "answer": "CREATE UNIQUE INDEX"
+          },
+          {
+            "position": 2,
+            "question": "A constraint that limits the value that can be placed in a column",
+            "answer": "CHECK"
+          },
+          {
+            "position": 3,
+            "question": "Combines the result set of two or more SELECT statements (allows duplicate values)",
+            "answer": "UNION ALL"
+          },
+          {
+            "position": 4,
+            "question": "Combines the result set of two or more SELECT statements (only distinct values)",
+            "answer": "UNION"
+          },
+          {
+            "position": 5,
+            "question": "Deletes the data inside a table, but not the table itself",
+            "answer": "TRUNCATE TABLE"
+          },
+          {
+            "position": 6,
+            "question": "Used instead of WHERE with aggregate functions",
+            "answer": "HAVING"
+          },
+          {
+            "position": 7,
+            "question": "A stored procedure",
+            "answer": "PROCEDURE"
+          },
+          {
+            "position": 8,
+            "question": "Tests for the existence of any record in a subquery",
+            "answer": "EXISTS"
+          },
+          {
+            "position": 9,
+            "question": "Executes a stored procedure",
+            "answer": "EXEC"
+          }
+        ]
+      }
+    ]
+  },
+  "javascript_string_methods": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "The BLANK method returns  the length of a string",
+            "answer": "length"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK method returns  the string's constructor function",
+            "answer": "constructor"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns two or more joined strings",
+            "answer": "concat"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns  a string converted to uppercase letters",
+            "answer": "toUpperCase"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method returns  a string converted to lowercase letters",
+            "answer": "toLowerCase"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method splits a string into an array of substrings",
+            "answer": "split"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method extracts a part of a string and returns a new string",
+            "answer": "slice"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method searches a string for a value, or a regular expression, and returns a string where the values are replaced",
+            "answer": "replace"
+          },
+          {
+            "position": 5,
+            "question": "The BLANK() method returns a string or a string object as a string",
+            "answer": "toString"
+          },
+          {
+            "position": 6,
+            "question": "The BLANK() method returns the index (position) of the first occurrence of a value in a string",
+            "answer": "indexOf"
+          },
+          {
+            "position": 7,
+            "question": "The BLANK() method returns if a string contains a specified value",
+            "answer": "includes"
+          },
+          {
+            "position": 8,
+            "question": "The BLANK() method returns the character at a specified index (position)",
+            "answer": "charAt"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns the primitive value of a string or a string object",
+            "answer": "valueOf"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method searches a string for a value, or regular expression, and returns the index (position) of the match",
+            "answer": "search"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns  a new string with a number of copies of a string",
+            "answer": "repeat"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method returns  if a string ends with a specified value",
+            "answer": "endsWith"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method returns  the index (position) of the last occurrence of a value in a string",
+            "answer": "lastIndexOf"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "The BLANK() method searches a string for a value, or a regular expression, and returns the matches",
+            "answer": "match"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK method allows you to add properties and methods to an object",
+            "answer": "prototype"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method checks whether a string begins with specified characters",
+            "answer": "startsWith"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method extracts a number of characters from a string, from a start index (position)",
+            "answer": "substr"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method extracts characters from a string, between two specified indices (positions)",
+            "answer": "substring"
+          },
+          {
+            "position": 5,
+            "question": "The BLANK() method returns a string with removed whitespaces",
+            "answer": "trim"
+          },
+          {
+            "position": 6,
+            "question": "The BLANK() method returns a string with removed whitespaces from the end",
+            "answer": "trimEnd"
+          },
+          {
+            "position": 7,
+            "question": "The BLANK() method returns a string with removed whitespaces from the start",
+            "answer": "trimStart"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "The BLANK() method returns Unicode values as characters",
+            "answer": "fromCharCode"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method compares two strings in the current locale",
+            "answer": "localeCompare"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns the Unicode of the character at a specified index",
+            "answer": "charCodeAt"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method returns a string converted to lowercase letters, using the host's locale",
+            "answer": "toLocaleLowerCase"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method returns a string converted to uppercase letters, using the host's locale",
+            "answer": "toLocaleUpperCase"
+          }
+        ]
+      }
+    ]
+  },
+  "sorting_algorithms": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "BLANK Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.",
+            "answer": "Bubble"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "BLANK sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.",
+            "answer": "Insertion"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "BLANK sort is a simple and efficient sorting algorithm that works by repeatedly selecting the smallest (or largest) element from the unsorted portion of the list and moving it to the sorted portion of the list. The algorithm repeatedly selects the smallest (or largest) element from the unsorted portion of the list and swaps it with the first element of the unsorted portion. This process is repeated for the remaining unsorted portion of the list until the entire list is sorted.",
+            "answer": "Selection"
+          },
+          {
+            "position": 1,
+            "question": "BLANK sort is a sorting technique based on keys between a specific range. It works by counting the number of objects having distinct key values (a kind of hashing). Then do some arithmetic operations to calculate the position of each object in the output sequence.",
+            "answer": "Counting"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "BLANK sort is a sorting algorithm that works by dividing an array into smaller subarrays, sorting each subarray, and then merging the sorted subarrays back together to form the final sorted array.",
+            "answer": "Merge"
+          },
+          {
+            "position": 1,
+            "question": "BLANK sort is a sorting algorithm that sequences a list by continuously dividing the list into two parts and moving the lower items to one side and the higher items to the other. It starts by picking one item in the entire list to serve as a pivot point. The pivot could be the first item or a randomly chosen one. All items that compare lower than the pivot are moved to the left of the pivot; all equal or higher items are moved to the right. It then picks a pivot for the left side and moves those items to left and right of the pivot and continues the pivot picking and dividing until there is only one item left in the group. It then proceeds to the right side and performs the same operation again.",
+            "answer": "Quick"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "BLANK sort is a popular and efficient sorting algorithm. The concept of BLANK sort is to eliminate the elements one by one from the heap part of the list, and then insert them into the sorted part of the list.",
+            "answer": "Heap"
+          },
+          {
+            "position": 1,
+            "question": "BLANK sort is an integer sorting algorithm that sorts data with integer keys by grouping the keys by individual digits that share the same significant position and value (place value). Radix sort uses counting sort as a subroutine to sort an array of numbers.",
+            "answer": "Radix"
+          }
+        ]
+      }
+    ]
+  },
+  "javascript_date_methods_and_properties": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "BLANK() returns the day of the month (from 1-31)",
+            "answer": "getUTCDate"
+          },
+          {
+            "position": 1,
+            "question": "BLANK() returns the day of the week (from 0-6)",
+            "answer": "getDay"
+          },
+          {
+            "position": 2,
+            "question": "BLANK() converts a Date object to a string",
+            "answer": "toString"
+          },
+          {
+            "position": 3,
+            "question": "BLANK() sets the day of the month of a date object",
+            "answer": "setDate"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "BLANK() sets the seconds of a date object",
+            "answer": "setSeconds"
+          },
+          {
+            "position": 1,
+            "question": "BLANK() sets the month of a date object",
+            "answer": "setMonth"
+          },
+          {
+            "position": 2,
+            "question": "BLANK() sets the minutes of a date object",
+            "answer": "setMinutes"
+          },
+          {
+            "position": 3,
+            "question": "BLANK() sets the milliseconds of a date object",
+            "answer": "setMilliseconds"
+          },
+          {
+            "position": 4,
+            "question": "BLANK() sets the hour of a date object",
+            "answer": "setHours"
+          },
+          {
+            "position": 5,
+            "question": "BLANK() returns the month (from 0-11)",
+            "answer": "getMonth"
+          },
+          {
+            "position": 6,
+            "question": "BLANK() returns the minutes (from 0-59)",
+            "answer": "getMinutes"
+          },
+          {
+            "position": 7,
+            "question": "BLANK() returns the hour (from 0-23)",
+            "answer": "getHours"
+          },
+          {
+            "position": 8,
+            "question": "BLANK() returns the milliseconds (from 0-999)",
+            "answer": "getMilliseconds"
+          },
+          {
+            "position": 9,
+            "question": "BLANK() returns the seconds (from 0-59)",
+            "answer": "getSeconds"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "BLANK returns the function that created the Date object's prototype",
+            "answer": "constructor"
+          },
+          {
+            "position": 1,
+            "question": "BLANK() sets the year of a date object",
+            "answer": "setFullYear"
+          },
+          {
+            "position": 2,
+            "question": "BLANK() converts the date portion of a Date object into a readable string",
+            "answer": "toDateString"
+          },
+          {
+            "position": 3,
+            "question": "BLANK() parses a date string and BLANK() returns the number of milliseconds since January 1, 1970",
+            "answer": "parse"
+          },
+          {
+            "position": 4,
+            "question": "BLANK() returns the year",
+            "answer": "getFullYear"
+          },
+          {
+            "position": 5,
+            "question": "BLANK() returns the date as a string, formatted as a JSON date",
+            "answer": "toJSON"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "BLANK() returns the primitive value of a Date object",
+            "answer": "valueOf"
+          },
+          {
+            "position": 1,
+            "question": "BLANK() converts the time portion of a Date object to a string",
+            "answer": "toTimeString"
+          },
+          {
+            "position": 2,
+            "question": "BLANK() converts a Date object to a string, using locale conventions",
+            "answer": "toLocaleString"
+          },
+          {
+            "position": 3,
+            "question": "BLANK() returns the time portion of a Date object as a string, using locale conventions",
+            "answer": "toLocaleTimeString"
+          },
+          {
+            "position": 4,
+            "question": "BLANK() returns the date portion of a Date object as a string, using locale conventions",
+            "answer": "toLocaleDateString"
+          },
+          {
+            "position": 5,
+            "question": "BLANK() returns the number of milliseconds since midnight Jan 1, 1970",
+            "answer": "now"
+          },
+          {
+            "position": 6,
+            "question": "BLANK() sets a date to a specified number of milliseconds after/before January 1, 1970",
+            "answer": "setTime"
+          },
+          {
+            "position": 7,
+            "question": "BLANK allows you to add properties and methods to an object",
+            "answer": "prototype"
+          },
+          {
+            "position": 8,
+            "question": "BLANK() returns the number of milliseconds since midnight Jan 1 1970, and a specified date",
+            "answer": "getTime"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "BLANK() returns the date as a string, using the ISO standard",
+            "answer": "toISOString"
+          },
+          {
+            "position": 1,
+            "question": "BLANK() returns the number of milliseconds in a date since midnight of January 1, 1970, according to UTC time",
+            "answer": "UTC"
+          },
+          {
+            "position": 2,
+            "question": "BLANK() sets the seconds of a date object, according to universal time",
+            "answer": "setUTCSeconds"
+          },
+          {
+            "position": 3,
+            "question": "BLANK() sets the month of a date object, according to universal time",
+            "answer": "setUTCMonth"
+          },
+          {
+            "position": 4,
+            "question": "BLANK() converts a Date object to a string, according to universal time",
+            "answer": "toUTCString"
+          },
+          {
+            "position": 5,
+            "question": "BLANK() sets the minutes of a date object, according to universal time",
+            "answer": "setUTCMinutes"
+          },
+          {
+            "position": 6,
+            "question": "BLANK() sets the milliseconds of a date object, according to universal time",
+            "answer": "setUTCMilliseconds"
+          },
+          {
+            "position": 7,
+            "question": "BLANK() sets the hour of a date object, according to universal time",
+            "answer": "setUTCHours"
+          },
+          {
+            "position": 8,
+            "question": "BLANK() sets the year of a date object, according to universal time",
+            "answer": "setUTCFullYear"
+          },
+          {
+            "position": 9,
+            "question": "BLANK() sets the day of the month of a date object, according to universal time",
+            "answer": "setUTCDate"
+          },
+          {
+            "position": 10,
+            "question": "BLANK() returns the seconds, according to universal time (from 0-59)",
+            "answer": "getUTCSeconds"
+          },
+          {
+            "position": 11,
+            "question": "BLANK() returns the month, according to universal time (from 0-11)",
+            "answer": "getUTCMonth"
+          },
+          {
+            "position": 12,
+            "question": "BLANK() returns the minutes, according to universal time (from 0-59)",
+            "answer": "getUTCMinutes"
+          },
+          {
+            "position": 13,
+            "question": "BLANK() returns the milliseconds, according to universal time (from 0-999)",
+            "answer": "getUTCMilliseconds"
+          },
+          {
+            "position": 14,
+            "question": "BLANK() returns the hour, according to universal time (from 0-23)",
+            "answer": "getUTCHours"
+          },
+          {
+            "position": 15,
+            "question": "BLANK() returns the year, according to universal time",
+            "answer": "getUTCFullYear"
+          },
+          {
+            "position": 16,
+            "question": "BLANK() returns the day of the week, according to universal time (from 0-6)",
+            "answer": "getUTCDay"
+          },
+          {
+            "position": 17,
+            "question": "BLANK() returns the day of the month, according to universal time (from 1-31)",
+            "answer": "getUTCDate"
+          },
+          {
+            "position": 18,
+            "question": "BLANK() returns the time difference between UTC time and local time, in minutes",
+            "answer": "getTimezoneOffset"
+          }
+        ]
+      }
+    ]
   }
+  
 
   
 }
