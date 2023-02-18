@@ -2311,7 +2311,7 @@
         {
           "position": 0,
           "question": "BLANK() returns the current state tree of your application. It is equal to the last value returned by the store's reducer.",
-          "answer": "getState​"
+          "answer": "getState"
         },
         {
           "position": 1,
@@ -2325,11 +2325,11 @@
         {
           "position": 0,
           "question": "BLANK(listener) adds a change listener.",
-          "answer": "subscribe​"
+          "answer": "subscribe"
         },
         {
           "position": 1,
-          "question": "BLANK(action). This is the only way to trigger a state change.​",
+          "question": "BLANK(action). This is the only way to trigger a state change.",
           "answer": "Dispatch"
         },
         {
@@ -2354,7 +2354,7 @@
         {
           "position": 0,
           "question": "BLANK(nextReducer) replaces the reducer currently used by the store to calculate the state.",
-          "answer": "replaceReducer​"
+          "answer": "replaceReducer"
         },
         {
           "position": 1,
