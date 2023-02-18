@@ -2289,6 +2289,120 @@
         ]
       }
     ]
+  },
+  "redux": {
+    "level": [
+    {
+      "one": [
+        {
+          "position": 0,
+          "question": "To change something in the state, you need to dispatch a/an BLANK. A/An BLANK is a plain JavaScript object that describes what happened.",
+          "answer": "Action"
+        },
+        {
+          "position": 1,
+          "question": "BLANK is a predictable state container for JavaScript apps.",
+          "answer": "Redux"
+        }
+      ]
+    },
+    {
+      "two": [
+        {
+          "position": 0,
+          "question": "BLANK() returns the current state tree of your application. It is equal to the last value returned by the store's reducer.",
+          "answer": "getState​"
+        },
+        {
+          "position": 1,
+          "question": "A/An BLANK is a pure function that takes an action and the previous state of the application and returns the new state.",
+          "answer": "reducer"
+        }
+      ]
+    },
+    {
+      "three": [
+        {
+          "position": 0,
+          "question": "BLANK(listener) adds a change listener.",
+          "answer": "subscribe​"
+        },
+        {
+          "position": 1,
+          "question": "BLANK(action). This is the only way to trigger a state change.​",
+          "answer": "Dispatch"
+        },
+        {
+          "position": 2,
+          "question": "A/An BLANK is an immutable object tree in Redux. A/An BLANK is a state container which holds the application's state.",
+          "answer": "Store"
+        },
+        {
+          "position": 3,
+          "question": "The <BLANK> component makes the Redux store available to any nested components that need to access the Redux store.",
+          "answer": "Provider"
+        },
+        {
+          "position": 4,
+          "question": "BLANK is a description or template for how to solve a problem that can be used in many different situations.",
+          "answer": "software design pattern"
+        }
+      ]
+    },
+    {
+      "four": [
+        {
+          "position": 0,
+          "question": "BLANK(nextReducer) replaces the reducer currently used by the store to calculate the state.",
+          "answer": "replaceReducer​"
+        },
+        {
+          "position": 1,
+          "question": "BLANK are the primary components and the entry point from which we call child or generic components.",
+          "answer": "Containers"
+        },
+        {
+          "position": 2,
+          "question": "BLANK does exactly what its name suggests: it connects a part of the Redux state to the props of a React component. By doing so a connected React component will have access to the exact part of the store it needs.",
+          "answer": "mapStateToProps"
+        },
+        {
+          "position": 3,
+          "question": "In THE 'BLANK' pattern, senders of messages called publishers, do not program the messages to be sent directly to specific receivers, called subscribers",
+          "answer": "Publisher-Subscriber"
+        }
+      ]
+    },
+    {
+      "five": [
+        {
+          "position": 0,
+          "question": "BLANK design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new operator. This gives program more flexibility in deciding which objects need to be created for a given use case.",
+          "answer": "Creational"
+        },
+        {
+          "position": 1,
+          "question": "The BLANK pattern is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.",
+          "answer": "Observer"
+        },
+        {
+          "position": 2,
+          "question": "BLANK design patterns are specifically concerned with the presentation tier. These patterns are identified by Sun Java Center.",
+          "answer": "J2EE"
+        },
+        {
+          "position": 3,
+          "question": "BLANK design patterns are specifically concerned with communication between objects.",
+          "answer": "Behavioral"
+        },
+        {
+          "position": 4,
+          "question": "BLANK design patterns concern class and object composition. Concept of inheritance is used to compose interfaces and define ways to compose objects to obtain new functionalities.",
+          "answer": "Structural"
+        }
+      ]
+    }
+    ]
   }
   
 
