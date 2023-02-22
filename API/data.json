@@ -2878,453 +2878,458 @@
         "three": [
           {
             "position": 0,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the size of an element in block direction",
+            "answer": "block-size"
           },
           {
             "position": 1,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for border-block-width, border-block-style and border-block-color",
+            "answer": "border-block"
           },
           {
             "position": 2,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the blending mode of each background layer (color/image)",
+            "answer": "background-blend-mode"
           },
           {
             "position": 3,
-            "question": "",
-            "answer": ""
+            "question": "Sets the style of the bottom border",
+            "answer": "border-bottom-style"
           },
           {
             "position": 4,
-            "question": "",
-            "answer": ""
+            "question": "Sets whether table borders should collapse into a single border or be separated",
+            "answer": "border-collapse"
           },
           {
             "position": 5,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether the border image should be repeated, rounded or stretched",
+            "answer": "border-image-repeat"
           },
           {
             "position": 6,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how to slice the border image",
+            "answer": "border-image-slice"
           },
           {
             "position": 7,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for the four border-*-radius properties",
+            "answer": "border-radius"
           },
           {
             "position": 8,
-            "question": "",
-            "answer": ""
+            "question": "Sets the style of the left border",
+            "answer": "border-left-style"
           },
           {
             "position": 9,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the column width",
+            "answer": "column-width"
           },
           {
             "position": 10,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for column-width and column-count",
+            "answer": "columns"
           },
           {
             "position": 11,
-            "question": "",
-            "answer": ""
+            "question": "Sets the distance between the borders of adjacent cells",
+            "answer": "border-spacing"
           },
           {
             "position": 12,
-            "question": "",
-            "answer": ""
+            "question": "Sets the elements position, from the bottom of its parent element",
+            "answer": "bottom"
           },
           {
             "position": 13,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the initial length of a flexible item",
+            "answer": "flex-basis"
           },
           {
             "position": 14,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how much the item will grow relative to the rest",
+            "answer": "flex-grow"
           },
           {
             "position": 15,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how the item will shrink relative to the rest",
+            "answer": "flex-shrink"
           },
           {
             "position": 16,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether the flexible items should wrap or not",
+            "answer": "flex-wrap"
           },
           {
             "position": 17,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for the grid-column-start and the grid-column-end properties",
+            "answer": "grid-column"
           },
           {
             "position": 18,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the size of the gap between columns",
+            "answer": "grid-column-gap"
           },
           {
             "position": 19,
-            "question": "",
-            "answer": ""
+            "question": "Specifies where to start the grid item",
+            "answer": "grid-column-start"
           },
           {
             "position": 20,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for the grid-row-gap and grid-column-gap properties",
+            "answer": "grid-gap"
           },
           {
             "position": 21,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for the grid-row-start and the grid-row-end properties",
+            "answer": "grid-row"
           },
           {
             "position": 22,
-            "question": "",
-            "answer": ""
+            "question": "Specifies where to end the grid item",
+            "answer": "grid-row-end"
           },
           {
             "position": 23,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the size of the gap between rows",
+            "answer": "grid-row-gap"
           },
           {
             "position": 24,
-            "question": "",
-            "answer": ""
+            "question": "Specifies where to start the grid item",
+            "answer": "grid-row-start"
           },
           {
             "position": 25,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the size of the columns, and how many columns in a grid layout",
+            "answer": "grid-template-columns"
           },
           {
             "position": 26,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the size of the rows in a grid layout",
+            "answer": "grid-template-rows"
           },
           {
             "position": 27,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the size of an element in the inline direction",
+            "answer": "inline-size"
           },
           {
             "position": 28,
-            "question": "",
-            "answer": ""
+            "question": "Sets how to split words to improve the layout of paragraphs",
+            "answer": "hyphens"
           },
           {
             "position": 29,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the alignment between the items inside a flexible container when the items do not use all available space",
+            "answer": "justify-content"
           },
           {
             "position": 30,
-            "question": "",
-            "answer": ""
+            "question": "Increases or decreases the space between characters in a text",
+            "answer": "letter-spacing"
           },
           {
             "position": 31,
-            "question": "",
-            "answer": ""
+            "question": "Is set on the grid container. Specifies the alignment of grid items in the inline direction",
+            "answer": "justify-items"
           },
           {
             "position": 32,
-            "question": "",
-            "answer": ""
+            "question": "Is set on the grid item. Specifies the alignment of the grid item in the inline direction",
+            "answer": "justify-self"
           },
           {
             "position": 33,
-            "question": "",
-            "answer": ""
+            "question": "Sets all the properties for a list in one declaration",
+            "answer": "list-style"
           },
           {
             "position": 34,
-            "question": "",
-            "answer": ""
+            "question": "Specifies an image as the list-item marker",
+            "answer": "list-style-image"
           },
           {
             "position": 35,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the position of the list-item markers (bullet points)",
+            "answer": "list-style-position"
           },
           {
             "position": 36,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the type of list-item marker",
+            "answer": "list-style-type"
           },
           {
             "position": 37,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin in the inline direction",
+            "answer": "margin-inline"
           },
           {
             "position": 38,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin at the end in the inline direction",
+            "answer": "margin-inline-end"
           },
           {
             "position": 39,
-            "question": "",
-            "answer": ""
+            "question": "Sets the order of the flexible item, relative to the rest",
+            "answer": "order"
           },
           {
             "position": 40,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin at the start in the inline direction",
+            "answer": "margin-inline-start"
           },
           {
             "position": 41,
-            "question": "",
-            "answer": ""
+            "question": "Sets the maximum size of an element in the block direction",
+            "answer": "max-block-size"
           },
           {
             "position": 42,
-            "question": "",
-            "answer": ""
+            "question": "Sets the maximum size of an element in the inline direction",
+            "answer": "max-inline-size"
           },
           {
             "position": 43,
-            "question": "",
-            "answer": ""
+            "question": "Sets the minimum size of an element in the block direction",
+            "answer": "min-block-size"
           },
           {
             "position": 44,
-            "question": "",
-            "answer": ""
+            "question": "Sets the minimum size of an element in the inline direction",
+            "answer": "min-inline-size"
           },
           {
             "position": 45,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how the mask layer image is repeated",
+            "answer": "mask-repeat"
           },
           {
             "position": 46,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the size of a mask layer image",
+            "answer": "mask-size"
           },
           {
             "position": 47,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for the row-gap and the column-gap properties",
+            "answer": "gap"
           },
           {
             "position": 48,
-            "question": "",
-            "answer": ""
+            "question": "Attaches one or more shadows to an element",
+            "answer": "box-shadow"
           },
           {
             "position": 49,
-            "question": "",
-            "answer": ""
+            "question": "Specifies where to end the grid item",
+            "answer": "grid-column-end"
           },
           {
             "position": 50,
-            "question": "",
-            "answer": ""
+            "question": "Defines how the width and height of an element are calculated: should they include padding and borders, or not",
+            "answer": "box-sizing"
           },
           {
             "position": 51,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the mouse cursor to be displayed when pointing over an element",
+            "answer": "cursor"
           },
           {
             "position": 52,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the text direction/writing direction",
+            "answer": "direction"
           },
           {
             "position": 53,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how a certain HTML element should be displayed",
+            "answer": "display"
           },
           {
             "position": 54,
-            "question": "",
-            "answer": ""
+            "question": "Offsets an outline, and draws it beyond the border edge",
+            "answer": "outline-offset"
           },
           {
             "position": 55,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the padding at the end in the block direction",
+            "answer": "padding-block-end"
           },
           {
             "position": 56,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the padding at the start in the block direction",
+            "answer": "padding-block-start"
           },
           {
             "position": 57,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the padding at the end in the inline direction",
+            "answer": "padding-inline-end"
           },
           {
             "position": 58,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the padding at the start in the inline direction",
+            "answer": "padding-inline-start"
           },
           {
             "position": 59,
-            "question": "",
-            "answer": ""
+            "question": "Sets the page-break behavior after an element",
+            "answer": "page-break-after"
           },
           {
             "position": 60,
-            "question": "",
-            "answer": ""
+            "question": "Sets the page-break behavior before an element",
+            "answer": "page-break-before"
           },
           {
             "position": 61,
-            "question": "",
-            "answer": ""
+            "question": "Sets the page-break behavior inside an element",
+            "answer": "page-break-inside"
           },
           {
             "position": 62,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the type of positioning method used for an element (static, relative, absolute or fixed)",
+            "answer": "position"
           },
           {
             "position": 63,
-            "question": "",
-            "answer": ""
+            "question": "Defines whether or not an element reacts to pointer events",
+            "answer": "pointer-events"
           },
           {
             "position": 64,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the rotation of an element",
+            "answer": "rotate"
           },
           {
             "position": 65,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the gap between the grid rows",
+            "answer": "row-gap"
           },
           {
             "position": 66,
-            "question": "",
-            "answer": ""
+            "question": "Sets the type of quotation marks for embedded quotations",
+            "answer": "quotes"
           },
           {
             "position": 67,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the width of a tab character",
+            "answer": "tab-size"
           },
           {
             "position": 68,
-            "question": "",
-            "answer": ""
+            "question": "Defines the algorithm used to lay out table cells, rows, and columns",
+            "answer": "table-layout"
           },
           {
             "position": 69,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the justification method used when text-align is 'justify'",
+            "answer": "text-justify"
           },
           {
             "position": 70,
-            "question": "",
-            "answer": ""
+            "question": "Defines the orientation of characters in a line",
+            "answer": "text-orientation"
           },
           {
             "position": 71,
-            "question": "",
-            "answer": ""
+            "question": "Adds shadow to text",
+            "answer": "text-shadow"
           },
           {
             "position": 72,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the top position of a positioned element",
+            "answer": "top"
           },
           {
             "position": 73,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for all the transition-* properties",
+            "answer": "transition"
           },
           {
             "position": 74,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether or not an element is visible",
+            "answer": "visibility"
           },
           {
             "position": 75,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how white-space inside an element is handled",
+            "answer": "white-space"
           },
           {
             "position": 76,
-            "question": "",
-            "answer": ""
+            "question": "Specifies a delay for the start of an animation",
+            "answer": "animation-delay"
           },
           {
             "position": 77,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether the animation is running or paused",
+            "answer": "animation-play-state"
           },
           {
             "position": 78,
-            "question": "",
-            "answer": ""
+            "question": "Specifies an accent color for user-interface controls",
+            "answer": "accent-color"
           },
           {
             "position": 79,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for all the column-rule-* properties",
+            "answer": "column-rule"
           },
           {
             "position": 80,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how to fill columns, balanced or not",
+            "answer": "column-fill"
           },
           {
             "position": 81,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the number of columns an element should be divided into",
+            "answer": "column-count"
           },
           {
             "position": 82,
-            "question": "",
-            "answer": ""
+            "question": "Specifies what happens if content overflows an element's box",
+            "answer": "overflow"
           },
           {
             "position": 83,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how words should break when reaching the end of a line",
+            "answer": "word-break"
           },
           {
             "position": 84,
-            "question": "",
-            "answer": ""
+            "question": "Increases or decreases the space between words in a text",
+            "answer": "word-spacing"
           },
           {
             "position": 85,
-            "question": "",
-            "answer": ""
+            "question": "Allows long, unbreakable words to be broken and wrap to the next line",
+            "answer": "word-wrap"
           },
           {
             "position": 86,
-            "question": "",
-            "answer": ""
+            "question": "Sets the stack order of a positioned element",
+            "answer": "z-index"
           },
           {
             "position": 87,
-            "question": "",
-            "answer": ""
+            "question": "Sets the style of an outline",
+            "answer": "outline-style"
           },
           {
             "position": 88,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether to smoothly animate the scroll position in a scrollable box, instead of a straight jump",
+            "answer": "scroll-behavior"
           },
           {
             "position": 89,
-            "question": "",
-            "answer": ""
+            "question": "Defines if (and how) an element is resizable by the user",
+            "answer": "resize"
+          },
+          {
+            "position": 90,
+            "question": "Describes how the last line of a block or a line right before a forced line break is aligned when text-align is 'justify'",
+            "answer": "text-align-last"
           }
         ]
       },
@@ -3332,553 +3337,553 @@
         "four": [
           {
             "position": 0,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the name of the CSS property the transition effect is for",
+            "answer": "transition-property"
           },
           {
             "position": 1,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the position of an element",
+            "answer": "translate"
           },
           {
             "position": 2,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether the text of an element can be selected",
+            "answer": "user-select"
           },
           {
             "position": 3,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how auto-placed items are inserted in the grid",
+            "answer": "grid-auto-flow"
           },
           {
             "position": 4,
-            "question": "",
-            "answer": ""
+            "question": "Defines how far the background (color or image) should extend within an element",
+            "answer": "background-clip"
           },
           {
             "position": 5,
-            "question": "",
-            "answer": ""
+            "question": "Applies a 2D or 3D transformation to an element",
+            "answer": "transform"
           },
           {
             "position": 6,
-            "question": "",
-            "answer": ""
+            "question": "Specifies a default row size",
+            "answer": "grid-auto-rows"
           },
           {
             "position": 7,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether or not a text should be displayed in a small-caps font",
+            "answer": "font-variant"
           },
           {
             "position": 8,
-            "question": "",
-            "answer": ""
+            "question": "Specifies a default column size",
+            "answer": "grid-auto-columns"
           },
           {
             "position": 9,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the combination of multiple characters into the space of a single character",
+            "answer": "text-combine-upright"
           },
           {
             "position": 10,
-            "question": "",
-            "answer": ""
+            "question": "Allows you to change the position on transformed elements",
+            "answer": "transform-origin"
           },
           {
             "position": 11,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how many seconds or milliseconds a transition effect takes to complete",
+            "answer": "transition-duration"
           },
           {
             "position": 12,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance between an element and the parent element in the inline direction",
+            "answer": "inset-inline"
           },
           {
             "position": 13,
-            "question": "",
-            "answer": ""
+            "question": "Selects a normal, condensed, or expanded face from a font family",
+            "answer": "font-stretch"
           },
           {
             "position": 14,
-            "question": "",
-            "answer": ""
+            "question": "Specifies when the transition effect will start",
+            "answer": "transition-delay"
           },
           {
             "position": 15,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance between the start of an element and the parent element in the inline direction",
+            "answer": "inset-inline-start"
           },
           {
             "position": 16,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance between the end of an element and the parent element in the inline direction",
+            "answer": "inset-inline-end"
           },
           {
             "position": 17,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance between the start of an element and the parent element in the block direction",
+            "answer": "inset-block-start"
           },
           {
             "position": 18,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the type of algorithm to use for image scaling",
+            "answer": "image-rendering"
           },
           {
             "position": 19,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance between an element and the parent element",
+            "answer": "inset"
           },
           {
             "position": 20,
-            "question": "",
-            "answer": ""
+            "question": "Specifies a name for the keyframes animation",
+            "answer": "animation-name"
           },
           {
             "position": 21,
-            "question": "",
-            "answer": ""
+            "question": "Increases or decreases the value of one or more CSS counters",
+            "answer": "counter-increment"
           },
           {
             "position": 22,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance between the end of an element and the parent element in the block direction",
+            "answer": "inset-block-end"
           },
           {
             "position": 23,
-            "question": "",
-            "answer": ""
+            "question": "A shorthand property for the flex-direction and the flex-wrap properties",
+            "answer": "flex-flow"
           },
           {
             "position": 24,
-            "question": "",
-            "answer": ""
+            "question": "Creates or resets one or more CSS counters",
+            "answer": "counter-reset"
           },
           {
             "position": 25,
-            "question": "",
-            "answer": ""
+            "question": "Defines a graphical effect to the area behind an element",
+            "answer": "backdrop-filter"
           },
           {
             "position": 26,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how many columns an element should span across",
+            "answer": "column-span"
           },
           {
             "position": 27,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether or not to display borders and background on empty cells in a table",
+            "answer": "empty-cells"
           },
           {
             "position": 28,
-            "question": "",
-            "answer": ""
+            "question": "Clips an absolutely positioned element",
+            "answer": "clip"
           },
           {
             "position": 29,
-            "question": "",
-            "answer": ""
+            "question": "Defines whether or not the back face of an element should be visible when facing the user",
+            "answer": "backface-visibility"
           },
           {
             "position": 30,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance between an element and the parent element in the block direction",
+            "answer": "inset-block"
           },
           {
             "position": 31,
-            "question": "",
-            "answer": ""
+            "question": "A rule that allows websites to download and use fonts other than the 'web-safe' fonts",
+            "answer": "font-face"
           },
           {
             "position": 32,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the width of the rule between columns",
+            "answer": "column-rule-width"
           },
           {
             "position": 33,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether to have scroll chaining or overscroll affordance in x- and y-directions",
+            "answer": "overscroll-behavior"
           },
           {
             "position": 34,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the style of the rule between columns",
+            "answer": "column-rule-style"
           },
           {
             "position": 35,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the color of the rule between columns",
+            "answer": "column-rule-color"
           },
           {
             "position": 36,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether or not to clip the top/bottom edges of the content, if it overflows the element's content area",
+            "answer": "overflow-y"
           },
           {
             "position": 37,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether to have scroll chaining or overscroll affordance in the block direction",
+            "answer": "overscroll-behavior-block"
           },
           {
             "position": 38,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether or not to clip the left/right edges of the content, if it overflows the element's content area",
+            "answer": "overflow-x"
           },
           {
             "position": 39,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether to have scroll chaining or overscroll affordance in the inline direction",
+            "answer": "overscroll-behavior-inline"
           },
           {
             "position": 40,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether to have scroll chaining or overscroll affordance in y-directions",
+            "answer": "overscroll-behavior-y"
           },
           {
             "position": 41,
-            "question": "",
-            "answer": ""
+            "question": "Specifies rotation of an element as it is animated along a path",
+            "answer": "offset-rotate"
           },
           {
             "position": 42,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance from the top of the container to the snap position on the child elements",
+            "answer": "scroll-padding-top"
           },
           {
             "position": 43,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether to have scroll chaining or overscroll affordance in x-direction",
+            "answer": "overscroll-behavior-x"
           },
           {
             "position": 44,
-            "question": "",
-            "answer": ""
+            "question": "Specifies what should happen with the element that is next to a floating element",
+            "answer": "clear"
           },
           {
             "position": 45,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether or not the browser can break lines with long words, if they overflow the container",
+            "answer": "overflow-wrap"
           },
           {
             "position": 46,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the path an element is animated along",
+            "answer": "offset-path"
           },
           {
             "position": 47,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance from the right side of the container to the snap position on the child elements",
+            "answer": "scroll-padding-right"
           },
           {
             "position": 48,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance from the left side of the container to the snap position on the child elements",
+            "answer": "scroll-padding-left"
           },
           {
             "position": 49,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance in inline direction from the start of the container to the snap position on the child elements",
+            "answer": "scroll-padding-inline-start"
           },
           {
             "position": 50,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance in inline direction from the end of the container to the snap position on the child elements",
+            "answer": "scroll-padding-inline-end"
           },
           {
             "position": 51,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance in inline direction from the container to the snap position on the child elements",
+            "answer": "scroll-padding-inline"
           },
           {
             "position": 52,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance from the bottom of the container to the snap position on the child elements",
+            "answer": "scroll-padding-bottom"
           },
           {
             "position": 53,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance in block direction from the start of the container to the snap position on the child elements",
+            "answer": "scroll-padding-block-start"
           },
           {
             "position": 54,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance in block direction from the end of the container to the snap position on the child elements",
+            "answer": "scroll-padding-block-end"
           },
           {
             "position": 55,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance in block direction from the container to the snap position on the child elements",
+            "answer": "scroll-padding-block"
           },
           {
             "position": 56,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the distance from the container to the snap position on the child elements",
+            "answer": "scroll-padding"
           },
           {
             "position": 57,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin between the snap position on the top side and the container",
+            "answer": "scroll-margin-top"
           },
           {
             "position": 58,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin between the snap position on the right side and the container",
+            "answer": "scroll-margin-right"
           },
           {
             "position": 59,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin between the snap position on the left side and the container",
+            "answer": "scroll-margin-left"
           },
           {
             "position": 60,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the start margin between the snap position and the container in the inline direction",
+            "answer": "scroll-margin-inline-start"
           },
           {
             "position": 61,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the end margin between the snap position and the container in the inline direction",
+            "answer": "scroll-margin-inline-end"
           },
           {
             "position": 62,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin between the snap position and the container in the inline direction",
+            "answer": "scroll-margin-inline"
           },
           {
             "position": 63,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin between the snap position on the bottom side and the container",
+            "answer": "scroll-margin-bottom"
           },
           {
             "position": 64,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the end margin between the snap position and the container in the block direction",
+            "answer": "scroll-margin-block-end"
           },
           {
             "position": 65,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin between the snap position and the container in the block direction",
+            "answer": "scroll-margin-block"
           },
           {
             "position": 66,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the margin between the snap position and the container",
+            "answer": "scroll-margin"
           },
           {
             "position": 67,
-            "question": "",
-            "answer": ""
+            "question": "Specifies align-self and justify-self property values for grid layouts",
+            "answer": "place-self"
           },
           {
             "position": 68,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the start margin between the snap position and the container in the block direction",
+            "answer": "scroll-margin-block-start"
           },
           {
             "position": 69,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the size of an element by scaling up or down",
+            "answer": "scale"
           },
           {
             "position": 70,
-            "question": "",
-            "answer": ""
+            "question": "Specifies align-items and justify-items property values for grid layouts",
+            "answer": "place-items"
           },
           {
             "position": 71,
-            "question": "",
-            "answer": ""
+            "question": "Defines at which position the user is looking at the 3D-positioned element",
+            "answer": "perspective-origin"
           },
           {
             "position": 72,
-            "question": "",
-            "answer": ""
+            "question": "Gives a 3D-positioned element some perspective",
+            "answer": "perspective"
           },
           {
             "position": 73,
-            "question": "",
-            "answer": ""
+            "question": "Specifies align-content and justify-content property values for flexbox and grid layouts",
+            "answer": "place-content"
           },
           {
             "position": 74,
-            "question": "",
-            "answer": ""
+            "question": "Sets the order of how an SVG element or text is painted.",
+            "answer": "paint-order"
           },
           {
             "position": 75,
-            "question": "",
-            "answer": ""
+            "question": "Specifies an image to be used as a mask layer for an element",
+            "answer": "mask-image"
           },
           {
             "position": 76,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether or not content in viewable area in a scrollable contianer should be pushed down when new content is loaded above",
+            "answer": "overflow-anchor"
           },
           {
             "position": 77,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how an element's content should blend with its direct parent background",
+            "answer": "mix-blend-mode"
           },
           {
             "position": 78,
-            "question": "",
-            "answer": ""
+            "question": "Sets the starting position of a mask layer image (relative to the mask position area)",
+            "answer": "mask-position"
           },
           {
             "position": 79,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the origin position (the mask position area) of a mask layer image",
+            "answer": "mask-origin"
           },
           {
             "position": 80,
-            "question": "",
-            "answer": ""
+            "question": "Represents a compositing operation used on the current mask layer with the mask layers below it",
+            "answer": "mask-composite"
           },
           {
             "position": 81,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the mask area",
+            "answer": "mask-clip"
           },
           {
             "position": 82,
-            "question": "",
-            "answer": ""
+            "question": "Hides parts of an element by masking or clipping an image at specific places",
+            "answer": "mask"
           },
           {
             "position": 83,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the color of the cursor (caret) in inputs, textareas, or any element that is editable",
+            "answer": "caret-color"
           },
           {
             "position": 84,
-            "question": "",
-            "answer": ""
+            "question": "Defines the radius of the border of the top-right corner",
+            "answer": "border-top-right-radius"
           },
           {
             "position": 85,
-            "question": "",
-            "answer": ""
+            "question": "The BLANK property is used to create a reflection of an element",
+            "answer": "box-reflect"
           },
           {
             "position": 86,
-            "question": "",
-            "answer": ""
+            "question": "Defines the radius of the border of the top-left corner",
+            "answer": "border-top-left-radius"
           },
           {
             "position": 87,
-            "question": "",
-            "answer": ""
+            "question": "Specifies how long an animation should take to complete one cycle",
+            "answer": "animation-duration"
           },
           {
             "position": 88,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the path to the image to be used as a border",
+            "answer": "border-image-source"
           },
           {
             "position": 89,
-            "question": "",
-            "answer": ""
+            "question": "Sets the width of the borders at start and end in the inline direction",
+            "answer": "border-inline-width"
           },
           {
             "position": 90,
-            "question": "",
-            "answer": ""
+            "question": "Sets the style of the borders at start and end in the inline direction",
+            "answer": "border-inline-style"
           },
           {
             "position": 91,
-            "question": "",
-            "answer": ""
+            "question": "Sets the width of the border at the start in the inline direction",
+            "answer": "border-inline-start-width"
           },
           {
             "position": 92,
-            "question": "",
-            "answer": ""
+            "question": "Sets the color of the border at the start in the inline direction",
+            "answer": "border-inline-start-color"
           },
           {
             "position": 93,
-            "question": "",
-            "answer": ""
+            "question": "Defines the radius of the border of the bottom-right corner",
+            "answer": "border-bottom-right-radius"
           },
           {
             "position": 94,
-            "question": "",
-            "answer": ""
+            "question": "Sets the style of the border at the start in the inline direction",
+            "answer": "border-inline-start-style"
           },
           {
             "position": 95,
-            "question": "",
-            "answer": ""
+            "question": "Sets the style of the borders at start and end in the block direction",
+            "answer": "border-block-style"
           },
           {
             "position": 96,
-            "question": "",
-            "answer": ""
+            "question": "Specifies the amount by which the border image area extends beyond the border box",
+            "answer": "border-image-outset"
           },
           {
             "position": 97,
-            "question": "",
-            "answer": ""
+            "question": "Sets the color of the border at the end in the inline direction",
+            "answer": "border-inline-end-color"
           },
           {
             "position": 98,
-            "question": "",
-            "answer": ""
+            "question": "Sets the width of the border at the end in the inline direction",
+            "answer": "border-inline-end-width"
           },
           {
             "position": 99,
-            "question": "",
-            "answer": ""
+            "question": "Defines the radius of the border of the bottom-left corner",
+            "answer": "border-bottom-left-radius"
           },
           {
             "position": 100,
-            "question": "",
-            "answer": ""
+            "question": "Sets the width of the borders at start and end in the block direction",
+            "answer": "border-block-width"
           },
           {
             "position": 101,
-            "question": "",
-            "answer": ""
+            "question": "Sets the width of the border at the start in the block direction",
+            "answer": "border-block-start-width"
           },
           {
             "position": 102,
-            "question": "",
-            "answer": ""
+            "question": "Sets the style of the border at the start in the block direction",
+            "answer": "border-block-start-style"
           },
           {
             "position": 103,
-            "question": "",
-            "answer": ""
+            "question": "Sets the color of the border at the start in the block direction",
+            "answer": "border-block-start-color"
           },
           {
             "position": 104,
-            "question": "",
-            "answer": ""
+            "question": "Sets the width of the border at the end in the block direction",
+            "answer": "border-block-end-width"
           },
           {
             "position": 105,
-            "question": "",
-            "answer": ""
+            "question": "Sets the style of the border at the end in the block direction",
+            "answer": "border-block-end-style"
           },
           {
             "position": 106,
-            "question": "",
-            "answer": ""
+            "question": "Sets the color of the border at the end in the block direction",
+            "answer": "border-block-end-color"
           },
           {
             "position": 107,
-            "question": "",
-            "answer": ""
+            "question": "Sets the color of the borders at start and end in the block direction",
+            "answer": "border-block-color"
           },
           {
             "position": 108,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether an animation should be played forwards, backwards or in alternate cycles",
+            "answer": "animation-direction"
           },
           {
             "position": 109,
-            "question": "",
-            "answer": ""
+            "question": "Resets all properties (except unicode-bidi and direction)",
+            "answer": "all"
           }
         ]
       },
@@ -3886,218 +3891,223 @@
         "five": [
           {
             "position": 0,
-            "question": "",
-            "answer": ""
+              "question": "Specifies how nested elements are rendered in 3D space",
+            "answer": "transform-style"
           },
           {
             "position": 1,
-            "question": "",
-            "answer": ""
+              "question": "Specifies the speed curve of the transition effect",
+            "answer": "transition-timing-function"
           },
           {
             "position": 2,
-            "question": "",
-            "answer": ""
+              "question": "Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document",
+            "answer": "unicode-bidi"
           },
           {
             "position": 3,
-            "question": "",
-            "answer": ""
+              "question": "Sets the minimum number of lines that must be left at the top of a page or column",
+            "answer": "widows"
           },
           {
             "position": 4,
-            "question": "",
-            "answer": ""
+              "question": "Specifies the position along a path where an animated element is placed",
+            "answer": "offset-distance"
           },
           {
             "position": 5,
-            "question": "",
-            "answer": ""
+              "question": "Sets the minimum number of lines that must be left at the bottom of a page or column",
+            "answer": "orphans"
           },
           {
             "position": 6,
-            "question": "",
-            "answer": ""
+              "question": "Specifies where to position elements when the user stops scrolling",
+            "answer": "scroll-snap-align"
           },
           {
             "position": 7,
-            "question": "",
-            "answer": ""
+              "question": "Specifies a point on an element that is fixed to the path it is animated along",
+            "answer": "offset-anchor"
           },
           {
             "position": 8,
-            "question": "",
-            "answer": ""
+              "question": "Specifies scroll behaviour after fast swipe on trackpad or touch screen",
+            "answer": "scroll-snap-stop"
           },
           {
             "position": 9,
-            "question": "",
-            "answer": ""
+            "question": "Specifies whether lines of text are laid out horizontally or vertically",
+            "answer": "writing-mode"
           },
           {
             "position": 10,
-            "question": "",
-            "answer": ""
+              "question": "Is a shorthand, and specifies how to animate an element along a path",
+            "answer": "offset"
           },
           {
             "position": 11,
-            "question": "",
-            "answer": ""
+              "question": "Specifies the alignment of the replaced element inside its box",
+            "answer": "object-position"
           },
           {
             "position": 12,
-            "question": "",
-            "answer": ""
+              "question": "Specifies whether the mask layer image is treated as a luminance mask or as an alpha mask",
+            "answer": "mask-mode"
           },
           {
             "position": 13,
-            "question": "",
-            "answer": ""
+              "question": "Specifies whether an SVG <mask> element is treated as a luminance mask or as an alpha mask",
+            "answer": "mask-type"
           },
           {
             "position": 14,
-            "question": "",
-            "answer": ""
+              "question": "Defines effects (e.g. blurring or color shifting) on an element before the element is displayed",
+            "answer": "filter"
           },
           {
             "position": 15,
-            "question": "",
-            "answer": ""
+              "question": "Defines whether an element must create a new stacking content",
+            "answer": "isolation"
           },
           {
             "position": 16,
-            "question": "",
-            "answer": ""
+              "question": "Specifies whether a punctuation character may be placed outside the line box",
+            "answer": "hanging-punctuation"
           },
           {
             "position": 17,
-            "question": "",
-            "answer": ""
+              "question": "Specifies the animation code",
+            "answer": "keyframes"
           },
           {
             "position": 18,
-            "question": "",
-            "answer": ""
+              "question": "Specifies how the contents of a replaced element should be fitted to the box established by its used height and width",
+            "answer": "object-fit"
           },
           {
             "position": 19,
-            "question": "",
-            "answer": ""
+              "question": "Controls the usage of alternate glyphs of smaller size positioned as superscript or subscript regarding the baseline of the font",
+            "answer": "font-variant-position"
           },
           {
             "position": 20,
-            "question": "",
-            "answer": ""
+              "question": "Used with the :before and :after pseudo-elements, to insert generated content",
+            "answer": "content"
           },
           {
             "position": 21,
-            "question": "",
-            "answer": ""
+              "question": "Either specifies a name for the grid item, or this property is a shorthand property for the grid-row-start, grid-column-start, grid-row-end, and grid-column-end properties",
+            "answer": "grid-area"
           },
           {
             "position": 22,
-            "question": "",
-            "answer": ""
+              "question": "Controls the usage of alternate glyphs for numbers, fractions, and ordinal markers",
+            "answer": "font-variant-numeric"
           },
           {
             "position": 23,
-            "question": "",
-            "answer": ""
+              "question": "Controls the usage of alternate glyphs for East Asian scripts (e.g Japanese and Chinese)",
+            "answer": "font-variant-east-asian"
           },
           {
             "position": 24,
-            "question": "",
-            "answer": ""
+              "question": "Controls which ligatures and contextual forms are used in textual content of the elements it applies to",
+            "answer": "font-variant-ligatures"
           },
           {
             "position": 25,
-            "question": "",
-            "answer": ""
+              "question": "Controls the usage of alternate glyphs for capital letters",
+            "answer": "font-variant-caps"
           },
           {
             "position": 26,
-            "question": "",
-            "answer": ""
+              "question": "Controls the usage of alternate glyphs associated to alternative names defined in font-feature-values",
+            "answer": "font-variant-alternates"
           },
           {
             "position": 27,
-            "question": "",
-            "answer": ""
+              "question": "Controls which missing typefaces (bold or italic) may be synthesized by the browser",
+            "answer": "font-synthesis"
           },
           {
             "position": 28,
-            "question": "",
-            "answer": ""
+              "question": "Preserves the readability of text when font fallback occurs",
+            "answer": "font-size-adjust"
           },
           {
             "position": 29,
-            "question": "",
-            "answer": ""
+              "question": "Controls the usage of language-specific glyphs in a typeface",
+            "answer": "font-language-override"
           },
           {
             "position": 30,
-            "question": "",
-            "answer": ""
+              "question": "Controls the usage of the kerning information (how letters are spaced)",
+            "answer": "font-kerning"
           },
           {
             "position": 31,
-            "question": "",
-            "answer": ""
+              "question": "Allows authors to use a common name in font-variant-alternate for feature activated differently in OpenType",
+            "answer": "font-feature-values"
           },
           {
             "position": 32,
-            "question": "",
-            "answer": ""
+              "question": "Allows control over advanced typographic features in OpenType fonts",
+            "answer": "font-feature-settings"
           },
           {
             "position": 33,
-            "question": "",
-            "answer": ""
+              "question": "Specifies the character encoding used in the style sheet",
+            "answer": "charset"
           },
           {
             "position": 34,
-            "question": "",
-            "answer": ""
+              "question": "Specifies the placement of a table caption",
+            "answer": "caption-side"
           },
           {
             "position": 35,
-            "question": "",
-            "answer": ""
+              "question": "Specifies whether or not a page-, column-, or region-break should occur inside the specified element",
+            "answer": "break-inside"
           },
           {
             "position": 36,
-            "question": "",
-            "answer": ""
+              "question": "Specifies whether or not a page-, column-, or region-break should occur before the specified element",
+            "answer": "break-before"
           },
           {
             "position": 37,
-            "question": "",
-            "answer": ""
+              "question": "Specifies whether or not a page-, column-, or region-break should occur after the specified element",
+            "answer": "break-after"
           },
           {
             "position": 38,
-            "question": "",
-            "answer": ""
+              "question": "Sets the behavior of the background and border of an element at page-break, or, for in-line elements, at line-break.",
+            "answer": "box-decoration-break"
           },
           {
             "position": 39,
-            "question": "",
-            "answer": ""
+              "question": "Sets the style of the border at the end in the inline direction",
+            "answer": "border-inline-end-style"
           },
           {
             "position": 40,
-            "question": "",
-            "answer": ""
+              "question": "Specifies the speed curve of an animation",
+            "answer": "animation-timing-function"
           },
           {
             "position": 41,
-            "question": "",
-            "answer": ""
+              "question": "Specifies the number of times an animation should be played",
+            "answer": "animation-iteration-count"
           },
           {
             "position": 42,
-            "question": "",
-            "answer": ""
+              "question": "Specifies a style for the element when the animation is not playing (before it starts, after it ends, or both)",
+            "answer": "animation-fill-mode"
+          }, 
+          {
+            "position": 43,
+              "question": "Specifies how snap behaviour should be when scrolling",
+            "answer": "scroll-snap-type"
           } 
         ]
       }
