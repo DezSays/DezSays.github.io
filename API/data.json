@@ -2292,118 +2292,118 @@
   },
   "redux": {
     "level": [
-    {
-      "one": [
-        {
-          "position": 0,
-          "question": "To change something in the state, you need to dispatch a/an BLANK. A/An BLANK is a plain JavaScript object that describes what happened.",
-          "answer": "Action"
-        },
-        {
-          "position": 1,
-          "question": "BLANK is a predictable state container for JavaScript apps.",
-          "answer": "Redux"
-        }
-      ]
-    },
-    {
-      "two": [
-        {
-          "position": 0,
-          "question": "BLANK() returns the current state tree of your application. It is equal to the last value returned by the store's reducer.",
-          "answer": "getState"
-        },
-        {
-          "position": 1,
-          "question": "A/An BLANK is a pure function that takes an action and the previous state of the application and returns the new state.",
-          "answer": "reducer"
-        }
-      ]
-    },
-    {
-      "three": [
-        {
-          "position": 0,
-          "question": "BLANK(listener) adds a change listener.",
-          "answer": "subscribe"
-        },
-        {
-          "position": 1,
-          "question": "BLANK(action). This is the only way to trigger a state change.",
-          "answer": "Dispatch"
-        },
-        {
-          "position": 2,
-          "question": "A/An BLANK is an immutable object tree in Redux. A/An BLANK is a state container which holds the application's state.",
-          "answer": "Store"
-        },
-        {
-          "position": 3,
-          "question": "The <BLANK> component makes the Redux store available to any nested components that need to access the Redux store.",
-          "answer": "Provider"
-        },
-        {
-          "position": 4,
-          "question": "BLANK is a description or template for how to solve a problem that can be used in many different situations.",
-          "answer": "software design pattern"
-        }
-      ]
-    },
-    {
-      "four": [
-        {
-          "position": 0,
-          "question": "BLANK(nextReducer) replaces the reducer currently used by the store to calculate the state.",
-          "answer": "replaceReducer"
-        },
-        {
-          "position": 1,
-          "question": "BLANK are the primary components and the entry point from which we call child or generic components.",
-          "answer": "Containers"
-        },
-        {
-          "position": 2,
-          "question": "BLANK does exactly what its name suggests: it connects a part of the Redux state to the props of a React component. By doing so a connected React component will have access to the exact part of the store it needs.",
-          "answer": "mapStateToProps"
-        },
-        {
-          "position": 3,
-          "question": "In THE 'BLANK' pattern, senders of messages called publishers, do not program the messages to be sent directly to specific receivers, called subscribers",
-          "answer": "Publisher-Subscriber"
-        }
-      ]
-    },
-    {
-      "five": [
-        {
-          "position": 0,
-          "question": "BLANK design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new operator. This gives program more flexibility in deciding which objects need to be created for a given use case.",
-          "answer": "Creational"
-        },
-        {
-          "position": 1,
-          "question": "The BLANK pattern is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.",
-          "answer": "Observer"
-        },
-        {
-          "position": 2,
-          "question": "BLANK design patterns are specifically concerned with the presentation tier. These patterns are identified by Sun Java Center.",
-          "answer": "J2EE"
-        },
-        {
-          "position": 3,
-          "question": "BLANK design patterns are specifically concerned with communication between objects.",
-          "answer": "Behavioral"
-        },
-        {
-          "position": 4,
-          "question": "BLANK design patterns concern class and object composition. Concept of inheritance is used to compose interfaces and define ways to compose objects to obtain new functionalities.",
-          "answer": "Structural"
-        }
-      ]
-    }
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "To change something in the state, you need to dispatch a/an BLANK. A/An BLANK is a plain JavaScript object that describes what happened.",
+            "answer": "Action"
+          },
+          {
+            "position": 1,
+            "question": "BLANK is a predictable state container for JavaScript apps.",
+            "answer": "Redux"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "BLANK() returns the current state tree of your application. It is equal to the last value returned by the store's reducer.",
+            "answer": "getState"
+          },
+          {
+            "position": 1,
+            "question": "A/An BLANK is a pure function that takes an action and the previous state of the application and returns the new state.",
+            "answer": "reducer"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "BLANK(listener) adds a change listener.",
+            "answer": "subscribe"
+          },
+          {
+            "position": 1,
+            "question": "BLANK(action). This is the only way to trigger a state change.",
+            "answer": "Dispatch"
+          },
+          {
+            "position": 2,
+            "question": "A/An BLANK is an immutable object tree in Redux. A/An BLANK is a state container which holds the application's state.",
+            "answer": "Store"
+          },
+          {
+            "position": 3,
+            "question": "The <BLANK> component makes the Redux store available to any nested components that need to access the Redux store.",
+            "answer": "Provider"
+          },
+          {
+            "position": 4,
+            "question": "BLANK is a description or template for how to solve a problem that can be used in many different situations.",
+            "answer": "software design pattern"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "BLANK(nextReducer) replaces the reducer currently used by the store to calculate the state.",
+            "answer": "replaceReducer"
+          },
+          {
+            "position": 1,
+            "question": "BLANK are the primary components and the entry point from which we call child or generic components.",
+            "answer": "Containers"
+          },
+          {
+            "position": 2,
+            "question": "BLANK does exactly what its name suggests: it connects a part of the Redux state to the props of a React component. By doing so a connected React component will have access to the exact part of the store it needs.",
+            "answer": "mapStateToProps"
+          },
+          {
+            "position": 3,
+            "question": "In THE 'BLANK' pattern, senders of messages called publishers, do not program the messages to be sent directly to specific receivers, called subscribers",
+            "answer": "Publisher-Subscriber"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "BLANK design patterns provide a way to create objects while hiding the creation logic, rather than instantiating objects directly using new operator. This gives program more flexibility in deciding which objects need to be created for a given use case.",
+            "answer": "Creational"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK pattern is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.",
+            "answer": "Observer"
+          },
+          {
+            "position": 2,
+            "question": "BLANK design patterns are specifically concerned with the presentation tier. These patterns are identified by Sun Java Center.",
+            "answer": "J2EE"
+          },
+          {
+            "position": 3,
+            "question": "BLANK design patterns are specifically concerned with communication between objects.",
+            "answer": "Behavioral"
+          },
+          {
+            "position": 4,
+            "question": "BLANK design patterns concern class and object composition. Concept of inheritance is used to compose interfaces and define ways to compose objects to obtain new functionalities.",
+            "answer": "Structural"
+          }
+        ]
+      }
     ]
-  }, 
+  },
   "css": {
     "level": [
       {
@@ -3891,47 +3891,47 @@
         "five": [
           {
             "position": 0,
-              "question": "Specifies how nested elements are rendered in 3D space",
+            "question": "Specifies how nested elements are rendered in 3D space",
             "answer": "transform-style"
           },
           {
             "position": 1,
-              "question": "Specifies the speed curve of the transition effect",
+            "question": "Specifies the speed curve of the transition effect",
             "answer": "transition-timing-function"
           },
           {
             "position": 2,
-              "question": "Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document",
+            "question": "Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document",
             "answer": "unicode-bidi"
           },
           {
             "position": 3,
-              "question": "Sets the minimum number of lines that must be left at the top of a page or column",
+            "question": "Sets the minimum number of lines that must be left at the top of a page or column",
             "answer": "widows"
           },
           {
             "position": 4,
-              "question": "Specifies the position along a path where an animated element is placed",
+            "question": "Specifies the position along a path where an animated element is placed",
             "answer": "offset-distance"
           },
           {
             "position": 5,
-              "question": "Sets the minimum number of lines that must be left at the bottom of a page or column",
+            "question": "Sets the minimum number of lines that must be left at the bottom of a page or column",
             "answer": "orphans"
           },
           {
             "position": 6,
-              "question": "Specifies where to position elements when the user stops scrolling",
+            "question": "Specifies where to position elements when the user stops scrolling",
             "answer": "scroll-snap-align"
           },
           {
             "position": 7,
-              "question": "Specifies a point on an element that is fixed to the path it is animated along",
+            "question": "Specifies a point on an element that is fixed to the path it is animated along",
             "answer": "offset-anchor"
           },
           {
             "position": 8,
-              "question": "Specifies scroll behaviour after fast swipe on trackpad or touch screen",
+            "question": "Specifies scroll behaviour after fast swipe on trackpad or touch screen",
             "answer": "scroll-snap-stop"
           },
           {
@@ -3941,176 +3941,768 @@
           },
           {
             "position": 10,
-              "question": "Is a shorthand, and specifies how to animate an element along a path",
+            "question": "Is a shorthand, and specifies how to animate an element along a path",
             "answer": "offset"
           },
           {
             "position": 11,
-              "question": "Specifies the alignment of the replaced element inside its box",
+            "question": "Specifies the alignment of the replaced element inside its box",
             "answer": "object-position"
           },
           {
             "position": 12,
-              "question": "Specifies whether the mask layer image is treated as a luminance mask or as an alpha mask",
+            "question": "Specifies whether the mask layer image is treated as a luminance mask or as an alpha mask",
             "answer": "mask-mode"
           },
           {
             "position": 13,
-              "question": "Specifies whether an SVG <mask> element is treated as a luminance mask or as an alpha mask",
+            "question": "Specifies whether an SVG <mask> element is treated as a luminance mask or as an alpha mask",
             "answer": "mask-type"
           },
           {
             "position": 14,
-              "question": "Defines effects (e.g. blurring or color shifting) on an element before the element is displayed",
+            "question": "Defines effects (e.g. blurring or color shifting) on an element before the element is displayed",
             "answer": "filter"
           },
           {
             "position": 15,
-              "question": "Defines whether an element must create a new stacking content",
+            "question": "Defines whether an element must create a new stacking content",
             "answer": "isolation"
           },
           {
             "position": 16,
-              "question": "Specifies whether a punctuation character may be placed outside the line box",
+            "question": "Specifies whether a punctuation character may be placed outside the line box",
             "answer": "hanging-punctuation"
           },
           {
             "position": 17,
-              "question": "Specifies the animation code",
+            "question": "Specifies the animation code",
             "answer": "keyframes"
           },
           {
             "position": 18,
-              "question": "Specifies how the contents of a replaced element should be fitted to the box established by its used height and width",
+            "question": "Specifies how the contents of a replaced element should be fitted to the box established by its used height and width",
             "answer": "object-fit"
           },
           {
             "position": 19,
-              "question": "Controls the usage of alternate glyphs of smaller size positioned as superscript or subscript regarding the baseline of the font",
+            "question": "Controls the usage of alternate glyphs of smaller size positioned as superscript or subscript regarding the baseline of the font",
             "answer": "font-variant-position"
           },
           {
             "position": 20,
-              "question": "Used with the :before and :after pseudo-elements, to insert generated content",
+            "question": "Used with the :before and :after pseudo-elements, to insert generated content",
             "answer": "content"
           },
           {
             "position": 21,
-              "question": "Either specifies a name for the grid item, or this property is a shorthand property for the grid-row-start, grid-column-start, grid-row-end, and grid-column-end properties",
+            "question": "Either specifies a name for the grid item, or this property is a shorthand property for the grid-row-start, grid-column-start, grid-row-end, and grid-column-end properties",
             "answer": "grid-area"
           },
           {
             "position": 22,
-              "question": "Controls the usage of alternate glyphs for numbers, fractions, and ordinal markers",
+            "question": "Controls the usage of alternate glyphs for numbers, fractions, and ordinal markers",
             "answer": "font-variant-numeric"
           },
           {
             "position": 23,
-              "question": "Controls the usage of alternate glyphs for East Asian scripts (e.g Japanese and Chinese)",
+            "question": "Controls the usage of alternate glyphs for East Asian scripts (e.g Japanese and Chinese)",
             "answer": "font-variant-east-asian"
           },
           {
             "position": 24,
-              "question": "Controls which ligatures and contextual forms are used in textual content of the elements it applies to",
+            "question": "Controls which ligatures and contextual forms are used in textual content of the elements it applies to",
             "answer": "font-variant-ligatures"
           },
           {
             "position": 25,
-              "question": "Controls the usage of alternate glyphs for capital letters",
+            "question": "Controls the usage of alternate glyphs for capital letters",
             "answer": "font-variant-caps"
           },
           {
             "position": 26,
-              "question": "Controls the usage of alternate glyphs associated to alternative names defined in font-feature-values",
+            "question": "Controls the usage of alternate glyphs associated to alternative names defined in font-feature-values",
             "answer": "font-variant-alternates"
           },
           {
             "position": 27,
-              "question": "Controls which missing typefaces (bold or italic) may be synthesized by the browser",
+            "question": "Controls which missing typefaces (bold or italic) may be synthesized by the browser",
             "answer": "font-synthesis"
           },
           {
             "position": 28,
-              "question": "Preserves the readability of text when font fallback occurs",
+            "question": "Preserves the readability of text when font fallback occurs",
             "answer": "font-size-adjust"
           },
           {
             "position": 29,
-              "question": "Controls the usage of language-specific glyphs in a typeface",
+            "question": "Controls the usage of language-specific glyphs in a typeface",
             "answer": "font-language-override"
           },
           {
             "position": 30,
-              "question": "Controls the usage of the kerning information (how letters are spaced)",
+            "question": "Controls the usage of the kerning information (how letters are spaced)",
             "answer": "font-kerning"
           },
           {
             "position": 31,
-              "question": "Allows authors to use a common name in font-variant-alternate for feature activated differently in OpenType",
+            "question": "Allows authors to use a common name in font-variant-alternate for feature activated differently in OpenType",
             "answer": "font-feature-values"
           },
           {
             "position": 32,
-              "question": "Allows control over advanced typographic features in OpenType fonts",
+            "question": "Allows control over advanced typographic features in OpenType fonts",
             "answer": "font-feature-settings"
           },
           {
             "position": 33,
-              "question": "Specifies the character encoding used in the style sheet",
+            "question": "Specifies the character encoding used in the style sheet",
             "answer": "charset"
           },
           {
             "position": 34,
-              "question": "Specifies the placement of a table caption",
+            "question": "Specifies the placement of a table caption",
             "answer": "caption-side"
           },
           {
             "position": 35,
-              "question": "Specifies whether or not a page-, column-, or region-break should occur inside the specified element",
+            "question": "Specifies whether or not a page-, column-, or region-break should occur inside the specified element",
             "answer": "break-inside"
           },
           {
             "position": 36,
-              "question": "Specifies whether or not a page-, column-, or region-break should occur before the specified element",
+            "question": "Specifies whether or not a page-, column-, or region-break should occur before the specified element",
             "answer": "break-before"
           },
           {
             "position": 37,
-              "question": "Specifies whether or not a page-, column-, or region-break should occur after the specified element",
+            "question": "Specifies whether or not a page-, column-, or region-break should occur after the specified element",
             "answer": "break-after"
           },
           {
             "position": 38,
-              "question": "Sets the behavior of the background and border of an element at page-break, or, for in-line elements, at line-break.",
+            "question": "Sets the behavior of the background and border of an element at page-break, or, for in-line elements, at line-break.",
             "answer": "box-decoration-break"
           },
           {
             "position": 39,
-              "question": "Sets the style of the border at the end in the inline direction",
+            "question": "Sets the style of the border at the end in the inline direction",
             "answer": "border-inline-end-style"
           },
           {
             "position": 40,
-              "question": "Specifies the speed curve of an animation",
+            "question": "Specifies the speed curve of an animation",
             "answer": "animation-timing-function"
           },
           {
             "position": 41,
-              "question": "Specifies the number of times an animation should be played",
+            "question": "Specifies the number of times an animation should be played",
             "answer": "animation-iteration-count"
           },
           {
             "position": 42,
-              "question": "Specifies a style for the element when the animation is not playing (before it starts, after it ends, or both)",
+            "question": "Specifies a style for the element when the animation is not playing (before it starts, after it ends, or both)",
             "answer": "animation-fill-mode"
-          }, 
+          },
           {
             "position": 43,
-              "question": "Specifies how snap behaviour should be when scrolling",
+            "question": "Specifies how snap behaviour should be when scrolling",
             "answer": "scroll-snap-type"
-          } 
+          }
         ]
       }
     ]
-  } 
+  },
+  "html_basics": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "The HTML <BLANK> Element represents the content of an HTML document. There can be only one <BLANK> element in a document.",
+            "answer": "body"
+          },
+          {
+            "position": 1,
+            "question": "The <BLANK> tag represents a paragraph. HTML paragraphs can be any structural grouping of related content, such as images or form fields.",
+            "answer": "p"
+          },
+          {
+            "position": 2,
+            "question": "The <BLANK> tag is a block element. It defines a division or a section in HTML document. Any sort of content can be put inside the <BLANK> tag.",
+            "answer": "div"
+          },
+          {
+            "position": 3,
+            "question": "The HTML <BLANK> element is used to represent an item in a list.",
+            "answer": "li"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK tag contains the width attribute. As the name suggests, these attributes specify the width of the image in pixels).",
+            "answer": "width"
+          },
+          {
+            "position": 5,
+            "question": "The BLANK tag contains the height attribute. As the name suggests, these attributes specify the height of the image in pixels).",
+            "answer": "height"
+          },
+          {
+            "position": 6,
+            "question": "The HTML <BLANK> tag is used to link images to web pages.",
+            "answer": "img"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "<BLANK> This is the Smallest among all. </BLANK>",
+            "answer": "h6"
+          },
+          {
+            "position": 1,
+            "question": "<BLANK> This is the second smallest heading of all. </BLANK>",
+            "answer": "h5"
+          },
+          {
+            "position": 2,
+            "question": "<BLANK> This is the fourth largest heading among all. </BLANK>",
+            "answer": "h4"
+          },
+          {
+            "position": 3,
+            "question": "<BLANK> This is the third largest heading among all. </BLANK>",
+            "answer": "h3"
+          },
+          {
+            "position": 4,
+            "question": "<BLANK> This is the second largest heading among all. </BLANK>",
+            "answer": "h2"
+          },
+          {
+            "position": 5,
+            "question": "The <BLANK> HTML element defines the document’s title that is shown in a browser’s title bar or a page’s tab.",
+            "answer": "title"
+          },
+          {
+            "position": 6,
+            "question": "The <BLANK> tag is used to define style information (CSS) for a document. It is used to specify how HTML elements should render in a browser.",
+            "answer": "style"
+          },
+          {
+            "position": 7,
+            "question": "The <BLANK> HTML5 element is used to give introductory content about the document. It may contain some heading elements and also a logo, a search form, an author name, and other elements.",
+            "answer": "header"
+          },
+          {
+            "position": 8,
+            "question": "The <BLANK> HTML element represents the main dominant content of the <body> of a document. The main content area consists of content that expands upon the central topic of a document, or the main functionality of an application.",
+            "answer": "main"
+          },
+          {
+            "position": 9,
+            "question": "<BLANK> This is the largest heading among all. </BLANK>",
+            "answer": "h1"
+          },
+          {
+            "position": 10,
+            "question": "The <BLANK> HTML element represents a footer for its sectioning root element. It typically contains information about the author of the section, copyright data or links to related documents.",
+            "answer": "footer"
+          },
+          {
+            "position": 11,
+            "question": "The <BLANK> tag is used to make the text enclosed within these tags bold.",
+            "answer": "b"
+          },
+          {
+            "position": 12,
+            "question": "The <BLANK> tag is used to make the style text enclosed within these tags italics.",
+            "answer": "i"
+          },
+          {
+            "position": 13,
+            "question": "The HTML <BLANK> element represents an unordered list of items. It is typically rendered as a bulleted list.",
+            "answer": "ul"
+          },
+          {
+            "position": 14,
+            "question": "The HTML <BLANK> element represents an ordered list of items. It is typically rendered as a numbered list.",
+            "answer": "ol"
+          },
+          {
+            "position": 15,
+            "question": "The BLANK attribute helps us change the look and feel of the document by setting the style, such as font, size, color, etc. of the HTML element.",
+            "answer": "style"
+          },
+          {
+            "position": 16,
+            "question": "The BLANK attribute is a unique identifier that is used to specify an area of a webpage. It is used by CSS and JavaScript to perform a certain task for a unique element. In CSS, the BLANK attribute is used using the # symbol followed by BLANK.",
+            "answer": "id"
+          },
+          {
+            "position": 17,
+            "question": "The BLANK attribute is used to specify one or more class names for an element and assign different properties within one block which in turn can be assigned to any element. Once assigned a specific class, the elements will have all the properties of that particular class.",
+            "answer": "class"
+          },
+          {
+            "position": 18,
+            "question": "The BLANK attribute is used with the image tag. It helps us to specify the alternative text in case, the image cannot be displayed on the website to give the users an idea of what the image contains.",
+            "answer": "alt"
+          },
+          {
+            "position": 19,
+            "question": "We use the <a> tag to define a hyperlink. In this tag, the BLANK attribute specifies the url of the destination address. Without BLANK attribute <a> element will not become hyperlink.",
+            "answer": "href"
+          },
+          {
+            "position": 20,
+            "question": "The HTML BLANK Attribute is used to specify the URL of the image to be used as a submit button. It specifies the image path inside double quotes.",
+            "answer": "src"
+          },
+          {
+            "position": 21,
+            "question": "The HTML <BLANK> element represents a clickable button, which can be used in forms or anywhere a standard button functionality is needed in a document.",
+            "answer": "button"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "The <BLANK> tag is used to represent source codes. It is mainly used to display the code snippet into the web browser.",
+            "answer": "code"
+          },
+          {
+            "position": 1,
+            "question": "The <BLANK> tag is an empty element, it defines the relationship between the current document and an external resource. The <BLANK> tag is most often used to link to external style sheets on your website.",
+            "answer": "link"
+          },
+          {
+            "position": 2,
+            "question": "The HTML5 <BLANK> element represents a standalone section. It is a structural HTML element used to group together related elements. Each <BLANK> typically includes one or more heading elements and additional elements presenting related content.",
+            "answer": "section"
+          },
+          {
+            "position": 3,
+            "question": "The <BLANK> HTML element represents a section of a page whose purpose is to provide navigation links, either within the current document or to other documents.",
+            "answer": "nav"
+          },
+          {
+            "position": 4,
+            "question": "The <BLANK> tag is an inline element. It is used to mark up a part of a text, or a part of a document.",
+            "answer": "span"
+          },
+          {
+            "position": 5,
+            "question": "The <BLANK> tag is used to indicate that content enclosed within these tags has strong importance or urgency. Typically, browsers render their content in bold.",
+            "answer": "strong"
+          },
+          {
+            "position": 6,
+            "question": "The <BLANK> element is used to describe the title of a creative work (For ex. a book, a paper, an essay, a poem, a song, a painting etc.)",
+            "answer": "cite"
+          },
+          {
+            "position": 7,
+            "question": "The HTML <BLANK> element represents data in a two-dimensional table comprised of rows and columns.",
+            "answer": "table"
+          },
+          {
+            "position": 8,
+            "question": "The HTML <BLANK> element is used to group header content in an HTML table. (used in conjunction with the <tbody> and <tfoot> element)",
+            "answer": "thead"
+          },
+          {
+            "position": 9,
+            "question": "The HTML <BLANK> element is used to group primary content of an HTML table.",
+            "answer": "tbody"
+          },
+          {
+            "position": 10,
+            "question": "The HTML <BLANK> element is used to define a cell as header of a group of cells of the HTML table.",
+            "answer": "th"
+          },
+          {
+            "position": 11,
+            "question": "The HTML <BLANK> element defines a cell of a table that contains the main data of the table.",
+            "answer": "td"
+          },
+          {
+            "position": 12,
+            "question": "The HTML <BLANK> tag defines a row in an HTML table. A <BLANK> element contains one or more <th> or <td> elements",
+            "answer": "tr"
+          },
+          {
+            "position": 13,
+            "question": "The <BLANK> HTML element represents a document section containing interactive controls for submitting information.",
+            "answer": "form"
+          },
+          {
+            "position": 14,
+            "question": "The HTML <BLANK> element is used to create interactive controls for web-based forms in order to accept data from the user.",
+            "answer": "input"
+          },
+          {
+            "position": 15,
+            "question": "The HTML <BLANK> element represents a control that provides a menu of options to select from.",
+            "answer": "select"
+          },
+          {
+            "position": 16,
+            "question": "The BLANK attribute specifies a short hint that describes the expected value of an input field/text area .The short hint is displayed in the field before the user enters a value.",
+            "answer": "placeholder"
+          },
+          {
+            "position": 17,
+            "question": "The HTML <BLANK> element displays an indicator showing the degree of completion of a task, typically displayed in the form of a progress bar.",
+            "answer": "progress"
+          },
+          {
+            "position": 18,
+            "question": "The <BLANK> tag is used to specify a label or caption for an <input> element of a form.",
+            "answer": "label"
+          },
+          {
+            "position": 19,
+            "question": "The HTML <BLANK> element is used to include sound content in documents. It may contain one or more audio sources.",
+            "answer": "audio"
+          },
+          {
+            "position": 20,
+            "question": "The HTML <BLANK> element embeds a media player which supports video files into the document.",
+            "answer": "video"
+          },
+          {
+            "position": 21,
+            "question": "The HTML <BLANK> tag helps embed multimedia in a Web page and play it while opening the page. It uses the three mandatory attributes, namely src, height, and width.",
+            "answer": "embed"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "The <BLANK> element is a container for metadata which is data about data. It is the first section in the code containing information about a web page’s properties and links to external related files.",
+            "answer": "head"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK tags are tags that have some data such as text, the image between their opening and closing tags. There are several BLANK tags in HTML.",
+            "answer": "container"
+          },
+          {
+            "position": 2,
+            "question": "The HTML5 <BLANK> element represents a self-contained composition in a document, page, application, or site, which is independently distributable or reusable.",
+            "answer": "article"
+          },
+          {
+            "position": 3,
+            "question": "The <BLANK> tag is used to put stress on some text or show some degree of emphasis. The <BLANK> element can be nested as well, where each level of nesting indicates a greater degree of emphasis.",
+            "answer": "em"
+          },
+          {
+            "position": 4,
+            "question": "The <BLANK> element is used to represent an abbreviation or acronym. The optional title attribute can be used to add description of the abbreviation.",
+            "answer": "abbr"
+          },
+          {
+            "position": 5,
+            "question": "The <BLANK> tag is used to mark or highlight important text for reference or notation purposes.",
+            "answer": "mark"
+          },
+          {
+            "position": 6,
+            "question": "The <BLANK> element is used to represent a specific period of time.",
+            "answer": "time"
+          },
+          {
+            "position": 7,
+            "question": "The HTML <BLANK> element represents a description list. The element encloses a list of groups of terms (specified using the <dt> element) and descriptions.",
+            "answer": "dl"
+          },
+          {
+            "position": 8,
+            "question": "The <BLANK> element specifies the title or caption of a table.",
+            "answer": "caption"
+          },
+          {
+            "position": 9,
+            "question": "The BLANK attribute specifies extra information about an element. The text of the BLANK attribute is most often displayed as a tooltip when the mouse hovers over the element in most browsers.",
+            "answer": "title"
+          },
+          {
+            "position": 10,
+            "question": "The HTML <BLANK> tag is used to include objects, such as images, audios, videos, Java applets, ActiveX controls, Portable Document Format (PDF), and Flash objects, in a Web page.",
+            "answer": "object"
+          },
+          {
+            "position": 11,
+            "question": "The <BLANK> tag is used to define an option in a select list. The <BLANK> elements go inside a <select>, <optgroup>, or <datalist> elements.",
+            "answer": "option"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "The <BLANK> tag represents pre-formatted text which is to be presented exactly as written in the HTML file. . It preserves the text spaces, line breaks, tabs, and other formatting characters which are ignored by web browsers.",
+            "answer": "pre"
+          },
+          {
+            "position": 1,
+            "question": "The <BLANK> tag defines metadata about an HTML document. It is typically used to specify the character set, page description, keywords, author of the document, and viewport settings.",
+            "answer": "meta"
+          },
+          {
+            "position": 2,
+            "question": "BLANK elements by default define ARIA landmark. These elements are mostly descendant of HTML body element.",
+            "answer": "Sectioning Content"
+          },
+          {
+            "position": 3,
+            "question": "The <BLANK> tag defines some content aside from the content it is placed in. Its content should be indirectly related to the surrounding content. The <BLANK> content is ,most often placed as a sidebar in a document.",
+            "answer": "aside"
+          },
+          {
+            "position": 4,
+            "question": "The HTML <BLANK> element indicates that the enclosed HTML provides contact information for a person or people, or for an organization. It must not contain information other than contact information.",
+            "answer": "address"
+          },
+          {
+            "position": 5,
+            "question": "The <BLANK> tag is used when we need to write the text as subscript.",
+            "answer": "sub"
+          },
+          {
+            "position": 6,
+            "question": "The <BLANK> tag is used when we need to write the text as superscript.",
+            "answer": "sup"
+          },
+          {
+            "position": 7,
+            "question": "The HTML <BLANK> tag is used in conjunction with <dl> to describe a term/name in a description list.",
+            "answer": "dd"
+          },
+          {
+            "position": 8,
+            "question": "The HTML <BLANK> element is used in conjunction with <dl> to specifies a term in a description or definition list.",
+            "answer": "dt"
+          },
+          {
+            "position": 9,
+            "question": "The HTML <BLANK> element defines a set of rows summarizing the columns of the table as per requirement.",
+            "answer": "tfoot"
+          },
+          {
+            "position": 10,
+            "question": "The <BLANK> HTML element is used to create a multi-line plain-text editing control, often used in a form, to collect user inputs like comments or reviews.",
+            "answer": "textarea"
+          },
+
+          {
+            "position": 11,
+            "question": "The HTML <BLANK> element is used to create a grouping of options within a <select> element.",
+            "answer": "optgroup"
+          },
+
+          {
+            "position": 12,
+            "question": "The HTML <BLANK> element is used to give a predefined options for an <input> element. It adds an autocomplete feature to it.",
+            "answer": "datalist"
+          },
+
+          {
+            "position": 13,
+            "question": "The HTML <BLANK> tag is used to group or various diagrams, images, illustrations, and code snippets into the document.",
+            "answer": "figure"
+          },
+
+          {
+            "position": 14,
+            "question": "The HTML <BLANK> tag is used inside the <figure> tag to provide the caption of the content.",
+            "answer": "figcaption"
+          }
+        ]
+      }
+    ]
+  },
+  "react": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "The BLANK is a built-in React object that is used to contain data or information about the component.",
+            "answer": "state"
+          },
+          {
+            "position": 1,
+            "question": "BLANKS allow functional components to have access to state and other React features.",
+            "answer": "Hooks"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is an open-source front-end JavaScript library that is used for building user interfaces, especially for single-page applications. It is used for handling view layer for web and mobile apps.",
+            "answer": "React"
+          },
+          {
+            "position": 3,
+            "question": "BLANKS are inputs to components. They are single values or objects containing a set of values that are passed to components on creation using a naming convention similar to HTML-tag attributes. They are data passed down from a parent component to a child component.",
+            "answer": "Props"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "BLANK is a special keyword in React, which stands for properties, and is being used for passing data from one component to another.",
+            "answer": "props"
+          },
+          {
+            "position": 1,
+            "question": "The React useBLANK() Hook allows us to track state in a function component.",
+            "answer": "State"
+          },
+          {
+            "position": 2,
+            "question": "Conceptually, a BLANK is like a JavaScript function. They are the building blocks of React. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.",
+            "answer": "Component"
+          },
+          {
+            "position": 3,
+            "question": "If you are rendering your component using JSX, the name of that component has to begin with a BLANK letter otherwise React will throw an error as an unrecognized tag.",
+            "answer": "capital"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "The useBLANK() Hook allows you to perform side effects in your components. Some examples of side effects are: fetching data, directly updating the DOM, and timers.",
+            "answer": "Effect"
+          },
+          {
+            "position": 1,
+            "question": "A/An BLANK is a plain object describing what you want to appear on the screen in terms of the DOM nodes or other components. Once a/an BLANK is created, it is never mutated.",
+            "answer": "Element"
+          },
+          {
+            "position": 2,
+            "question": "BLANKS get passed to the component similar to function parameters whereas state is managed within the component similar to variables declared within a function.",
+            "answer": "Props"
+          },
+          {
+            "position": 3,
+            "question": "React.BLANK is a useful component for highlighting potential problems in an application. Just like <Fragment>, <BLANK> does not render any extra DOM elements. It activates additional checks and warnings for its descendants. These checks apply for development mode only.",
+            "answer": "StrictMode"
+          },
+          {
+            "position": 4,
+            "question": "Each component in React has a BLANK which you can monitor and manipulate during its three main phases. The three phases are: Mounting, Updating, and Unmounting.",
+            "answer": "lifecycle"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "Executed after first rendering and where all AJAX requests, DOM or state updates, and set up event listeners should occur.",
+            "answer": "componentDidMount"
+          },
+          {
+            "position": 1,
+            "question": "If the behaviour of a component is dependent on the state of the component then it can be termed as BLANK component. These BLANK components are always class components and have a state that gets initialized in the constructor.",
+            "answer": "stateful"
+          },
+          {
+            "position": 2,
+            "question": "The useBLANK() Hook allows you to persist values between renders.",
+            "answer": "Ref"
+          },
+          {
+            "position": 3,
+            "question": "If the behaviour of a component is independent of its state then it can be a BLANK component. A functional component is always a BLANK component, but the class component can be BLANK or stateful.",
+            "answer": "stateless"
+          },
+          {
+            "position": 4,
+            "question": "A BLANK component is a component that renders one of many components.",
+            "answer": "switching"
+          },
+          {
+            "position": 5,
+            "question": "Mostly BLANK is used to update the DOM in response to prop or state changes. This will not fire if shouldComponentUpdate() returns false.",
+            "answer": "componentDidUpdate"
+          },
+          {
+            "position": 6,
+            "question": "useBLANK() is a React Hook that lets you read and subscribe to context from your component.",
+            "answer": "Context"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "If the return value is determined by its input values only and is always the same for the particular input values, then it is considered a BLANK function.",
+            "answer": "Pure"
+          },
+          {
+            "position": 1,
+            "question": "BLANK will be used to cancel any outgoing network requests, or remove all event listeners associated with the component.",
+            "answer": "componentWillUnmount"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is a recommended way to render children into a DOM node that exists outside the DOM hierarchy of the parent component.",
+            "answer": "Portal"
+          },
+          {
+            "position": 3,
+            "question": "When a component's props or state change, React decides whether an actual DOM update is necessary by comparing the newly returned element with the previously rendered one. When they are not equal, React will update the DOM. This process is called BLANK.",
+            "answer": "reconciliation"
+          },
+          {
+            "position": 4,
+            "question": "Executed right before rendered output is committed to the DOM. Any value returned by this will be passed into componentDidUpdate(). This is useful to capture information from the DOM i.e. scroll position.",
+            "answer": "getSnapshotBeforeUpdate"
+          },
+          {
+            "position": 5,
+            "question": "Determines if the component will be updated or not. By default, it returns true. If you are sure that the component doesn't need to render after the state or props are updated, you can return a false value. It is a great place to improve performance as it allows you to prevent a re-render if component receives a new prop.",
+            "answer": "shouldComponentUpdate"
+          },
+          {
+            "position": 6,
+            "question": "Invoked right before calling render() and is invoked on every render. This exists for rare use cases where you need a derived state.",
+            "answer": "getDerivedStateFromProps"
+          },
+          {
+            "position": 7,
+            "question": "BLANKS let you group a list of children without adding extra nodes to the DOM. It's a common pattern in React which is used for a component to return multiple elements.",
+            "answer": "Fragments"
+          },
+          {
+            "position": 8,
+            "question": "The BLANK object enables you to render components to static markup (typically used on node server). This object is mainly used for server-side rendering (SSR).",
+            "answer": "ReactDOMServer"
+          },
+          {
+            "position": 9,
+            "question": "A/AN BLANK function doesn't predictably produce the same result given the same inputs when called multiple times, and may cause side-effects.",
+            "answer": "Impure"
+          }
+        ]
+      }
+    ]
+  }
 }
