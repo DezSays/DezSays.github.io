@@ -4704,5 +4704,434 @@
         ]
       }
     ]
+  },
+  "vocab": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "BLANK, or MVP, refers to the most pared-down version of a product that can be released to the market.",
+            "answer": "Minimum Viable Product"
+          },
+          {
+            "position": 1,
+            "question": "A BLANK is a set of modules which makes sense to be together and that can be used in a program. ",
+            "answer": "library"
+          },
+          {
+            "position": 2,
+            "question": "BLANK stands for Create, Read, Update, Delete",
+            "answer": "CRUD"
+          },
+          {
+            "position": 3,
+            "question": "An error or flaw in the website or app that keeps it from running as expected is called a BLANK.",
+            "answer": "Bug"
+          },
+          {
+            "position": 4,
+            "question": "The program you use to access the Web — such as Chrome, Firefox, or Safari. These are all example of BLANKS.",
+            "answer": "Browsers"
+          },
+          {
+            "position": 5,
+            "question": "Basically the same as HTTP, but uses encryption methods to secure the data passed to and from webpages.",
+            "answer": "HTTPS"
+          },
+          {
+            "position": 6,
+            "question": "Hypertext Transport (or Transfer) Protocol, or BLANK, is the data transfer protocol used on the World Wide Web.",
+            "answer": "HTTP"
+          },
+          {
+            "position": 7,
+            "question": "BLANK, or HTML, is the coding language used to build a website in terms of both form and function.",
+            "answer": "Hypertext Markup Language"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "BLANK is an object-oriented computer programming language commonly used to create interactive effects within web browsers.",
+            "answer": "JavaScript"
+          },
+          {
+            "position": 1,
+            "question": "BLANK color codes are the most commonly used color-coding system that provides values that tell the display how much of a color to show. The BLANK code for red is #FF0000.",
+            "answer": "Hex"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is a cloud interface for Git, which also offers its own features, such as bug tracking, task management and project wikis",
+            "answer": "GitHub"
+          },
+          {
+            "position": 3,
+            "question": "BLANK is a version control system where developers can store and manage their code.",
+            "answer": "Git"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK, or DOM, is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree.",
+            "answer": "Document Object Model"
+          },
+          {
+            "position": 5,
+            "question": "BLANK is the process of identifying and dealing with bugs.",
+            "answer": "Debugging"
+          },
+          {
+            "position": 6,
+            "question": "BLANKS, or apps, are programs designed to perform functions. ",
+            "answer": "Applications"
+          },
+          {
+            "position": 7,
+            "question": "BLANK, or API, is how computers and applications communicate with one another.",
+            "answer": "Application Program Interface"
+          },
+          {
+            "position": 8,
+            "question": "A BLANK is a collection of reusable, compiled, and tested code that can facilitate the automation or augmentation of application functionalities. It's designed to support both the code developer and code compiler during the build process and the running of the application.",
+            "answer": "library"
+          },
+          {
+            "position": 9,
+            "question": "CSS stands for BLANK. It's a stylesheet language used to add layout and visual effects to HTML elements.",
+            "answer": "Cascading Style Sheets"
+          },
+          {
+            "position": 10,
+            "question": "BLANK stack development is the end-to-end development of applications. It includes both the front end and back end of an application. The front end is usually accessed by a client, and the back end forms the core of the application where all the business logic is applied.",
+            "answer": "Full"
+          },
+          {
+            "position": 11,
+            "question": "BLANK-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.",
+            "answer": "Front"
+          },
+          {
+            "position": 12,
+            "question": "Computers running software that allows users to access your website and houses the hosting are called BLANK.",
+            "answer": "Server"
+          },
+          {
+            "position": 13,
+            "question": "BLANK design ensures that a website is displayed correctly no matter what device the user is viewing it on.",
+            "answer": "Responsive"
+          },
+          {
+            "position": 14,
+            "question": "A BLANK is when a web page is visited at a certain URL, it changes to a different URL",
+            "answer": "Redirect"
+          },
+          {
+            "position": 15,
+            "question": "Angle brackets (<>) that bookend an HTML element to help build the structure of a webpage. Closing BLANKS include a forward slash (</>).",
+            "answer": "Tags"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "The default package manager for the JavaScript runtime environment Node.js",
+            "answer": "NPM"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.",
+            "answer": "Promises"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is a metric used to describe the size of an image or a screen.",
+            "answer": "Resolution"
+          },
+          {
+            "position": 3,
+            "question": "Software as a service (or BLANK) is a way of delivering applications over the Internet as a service.",
+            "answer": "SaaS"
+          },
+          {
+            "position": 4,
+            "question": "Abbreviated as SEO, it is the process of creating and modifying content for the best visibility on search engines.",
+            "answer": "Search Engine Optimization"
+          },
+          {
+            "position": 5,
+            "question": "A/An BLANK is a visual guide to show the structure and content of a web page without any design elements. This helps to focus on the layout of content and hierarchy, without being distracted by design.",
+            "answer": "Wireframe"
+          },
+          {
+            "position": 6,
+            "question": "BLANK is a package manager just like NPM that doubles down as a project manager.",
+            "answer": "Yarn"
+          },
+          {
+            "position": 7,
+            "question": "Links on a website that points to the other pages. Generally found in the menu at the top of a site or in a footer.",
+            "answer": "Navigation"
+          },
+          {
+            "position": 8,
+            "question": "The representation of a digital image as rectangles, lines and other geometric entities, resulting in the image being scalable to any size.",
+            "answer": "SVG"
+          },
+          {
+            "position": 9,
+            "question": "BLANK is an outline of all pages on a website, organized in hierarchical order.",
+            "answer": "Sitemap"
+          },
+          {
+            "position": 10,
+            "question": "BLANK (SSR) is an application's ability to convert HTML files on the server into a fully rendered HTML page for the client.",
+            "answer": "Server-Side Rendering"
+          },
+          {
+            "position": 11,
+            "question": "BLANK is temporary data storage that helps site speed by storing relevant information on your computer the first time you visit a website. Thanks to BLANK, when you visit the website again, your computer does not have to reload all the website information as it's already saved.",
+            "answer": "Cache"
+          },
+          {
+            "position": 12,
+            "question": "Characteristics that are dictated by CSS such as color schemes and fonts. These are known as CSS BLANKS.",
+            "answer": "Properties"
+          },
+          {
+            "position": 13,
+            "question": "CSS BLANKS select the HTML elements you want to style. The commonly used BLANKS use HTML classes, IDs, and tags; but there are a plethora of complex BLANKS that can be used to granularly select elements.",
+            "answer": "Selectors"
+          },
+          {
+            "position": 14,
+            "question": "These are points when your website will adjust to accommodate the screen size to make sure the user has the best experience viewing the website at that size.",
+            "answer": "Breakpoint"
+          },
+          {
+            "position": 15,
+            "question": "BLANKS are special words used inside the opening tag to control an HTML Element's behavior.",
+            "answer": "Attributes"
+          },
+          {
+            "position": 16,
+            "question": "BLANK is a programming language used to communicate with and manipulate databases.",
+            "answer": "SQL"
+          },
+          {
+            "position": 17,
+            "question": "BLANK, or REST, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.",
+            "answer": "Representational State Transfer"
+          },
+          {
+            "position": 18,
+            "question": "BLANK-end development means working on server-side software, which focuses on everything you can't see on a website. BLANK-end developers ensure the website performs correctly, focusing on databases, BLANK-end logic, application programming interface (APIs), architecture, and servers.",
+            "answer": "Back"
+          },
+          {
+            "position": 19,
+            "question": "BLANK refers to a sequence of finite steps to solve a particular problem.",
+            "answer": "Algorithm"
+          },
+          {
+            "position": 20,
+            "question": "BLANK, or DBMS for short, are software systems used to store, retrieve, and run queries on data.",
+            "answer": "Database Management Systems"
+          },
+          {
+            "position": 21,
+            "question": "BLANK is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a 'big bang' launch, a/an BLANK team delivers work in small, but consumable, increments. Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.",
+            "answer": "Agile"
+          },
+          {
+            "position": 22,
+            "question": "A BLANK is a specialized format for organizing, processing, retrieving and storing data",
+            "answer": "Data structure"
+          },
+          {
+            "position": 23,
+            "question": "BLANKS were invented to make the process of building a website faster and easier. You can think of BLANKS as a collection of solutions, tools, and components that you can access in one central location — rather than seeking them all out separately each time.",
+            "answer": "Frameworks"
+          },
+          {
+            "position": 24,
+            "question": "Short for favorite icon, it’s the icon that appears in your website’s browser tab.",
+            "answer": "Favicon"
+          },
+          {
+            "position": 25,
+            "question": "The address for a website is entered into the browser is called the BLANK.",
+            "answer": "Domain"
+          },
+          {
+            "position": 26,
+            "question": "BLANK is essentially the central point of reference for anyone involved in managing, maintaining or using a website or piece of software and provides information on requirements, architecture and design, technical properties, information for the end user.",
+            "answer": "Documentation"
+          },
+          {
+            "position": 27,
+            "question": "BLANK is the mechanism through which applications, modules, updates, and patches are delivered from developers to users.",
+            "answer": "Deployment"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "HTML element used to embed a website within another website.",
+            "answer": "iFrame"
+          },
+          {
+            "position": 1,
+            "question": "Additional information on web pages or elements, such as the way a piece of content should display in Google search results, the photo credit for an image, etc. is referred to as a/an BLANK tag.",
+            "answer": "Meta"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is the process of minimizing code and markup to reduce the file size. When creating an HTML file, for example, developers will most likely use spacing, comments, and variables to make the code more readable as they work with it. To minify the code once the webpage is ready to go live, developers will remove these comments and spaces to ensure a quicker page-load time.",
+            "answer": "Minification"
+          },
+          {
+            "position": 3,
+            "question": "BLANK-first is an approach to web design and development that prioritizes mobile devices. Rather than building a website with a desktop in mind and then considering how it might look on a mobile device, with a BLANK approach, the website is first built for the small screen.",
+            "answer": "Mobile"
+          },
+          {
+            "position": 4,
+            "question": "The most basic of the building blocks for data collection. BLANKS are the storage units that your website visitors use to enter their names, email addresses, notes, etc.",
+            "answer": "Fields"
+          },
+          {
+            "position": 5,
+            "question": "A user’s interaction with the UI with a focus on how satisfying and successful the experience is.",
+            "answer": "UX"
+          },
+          {
+            "position": 6,
+            "question": "BLANK is the interface of interaction between the visitor and a computer.",
+            "answer": "UI"
+          },
+          {
+            "position": 7,
+            "question": "BLANK is a strict syntactical superset of JavaScript and adds optional static typing to the language.",
+            "answer": "TypeScript"
+          },
+          {
+            "position": 8,
+            "question": "A BLANK is a Carousel generally consisting of images or cards that rotate, highlighting different photos, links, and content.",
+            "answer": "Slider"
+          },
+          {
+            "position": 9,
+            "question": "BLANK HTML is the use of HTML markup to reinforce the semantics, or meaning, of the information in webpages and web applications rather than merely to define its presentation or look.",
+            "answer": "Semantic"
+          },
+          {
+            "position": 10,
+            "question": "Web BLANKING is the process of indexing data on web pages by using a program or automated script.",
+            "answer": "Crawling"
+          },
+          {
+            "position": 11,
+            "question": "BLANKS are data sent by an Internet server to a browser. Each time the browser accesses the same server, it sends the data back as a means of tracking how (and how often) it accesses the server.",
+            "answer": "Cookies"
+          },
+          {
+            "position": 12,
+            "question": "A/An BLANK allows an expression to be expanded in places where multiple arguments (for function calls) or multiple elements (for array literals) are expected.",
+            "answer": "spread operator"
+          },
+          {
+            "position": 13,
+            "question": "BLANK, or TDD, is focused on testing smaller pieces of functionality in isolation.",
+            "answer": "test driven development"
+          },
+          {
+            "position": 14,
+            "question": "BLANK, or BDD, is designed to test an application's behavior from the end user's standpoint.",
+            "answer": "behavior driven development"
+          },
+          {
+            "position": 15,
+            "question": "BLANK, or CORS, is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.",
+            "answer": "Cross-Origin Resource Sharing"
+          },
+          {
+            "position": 16,
+            "question": "A BLANK database is a database structured to recognize relations among stored items of information.",
+            "answer": "Relational"
+          },
+          {
+            "position": 17,
+            "question": "BLANK control, also known as source control, is the practice of tracking and managing changes to software code. BLANK control systems are software tools that help software teams manage changes to source code over time.",
+            "answer": "Version"
+          },
+          {
+            "position": 18,
+            "question": "BLANK is an open-source SQL relational database management system from Oracle.",
+            "answer": "MySQL"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "A distributed denial-of-service, or BLANK, attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.",
+            "answer": "DDoS"
+          },
+          {
+            "position": 1,
+            "question": "Above the BLANK is also used in website design to refer to the portion of the webpage that is visible without scrolling. As screen sizes vary drastically there is no set definition for the number of pixels that define the BLANK.",
+            "answer": "Fold"
+          },
+          {
+            "position": 2,
+            "question": "Abbreviated to FCS, it measures how long it takes the browser to render the first piece of DOM content after a user navigates to your page.",
+            "answer": "First Contentful Paint"
+          },
+          {
+            "position": 3,
+            "question": "BLANK, or SSL, is a standard security technology for establishing an encrypted link between a server and a client—typically a web server (website) and a browser, or a mail server and a mail client (e.g., Outlook).",
+            "answer": "Secure Sockets Layer"
+          },
+          {
+            "position": 4,
+            "question": "BLANK is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites. It was among the first server-side languages that could be embedded into HTML, making it easier to add functionality to web pages without needing to call external files for data.",
+            "answer": "PHP"
+          },
+          {
+            "position": 5,
+            "question": "BLANK is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.",
+            "answer": "jQuery"
+          },
+          {
+            "position": 6,
+            "question": "BLANK, or IA, is the practice of structuring and presenting the parts of something — whether that's a website, mobile app, blog post, book, or brick-and-mortar store — to users so that it's easy to understand.",
+            "answer": "Information Architecture"
+          },
+          {
+            "position": 7,
+            "question": "A relatively simple and easy-to-use software application or component made for one or more different software platforms.",
+            "answer": "Widgets"
+          },
+          {
+            "position": 8,
+            "question": "BLANK, or LCP, is a performance metric that measures how long it takes for the largest content element to be rendered on the screen.",
+            "answer": "Largest Contentful Paint"
+          },
+          {
+            "position": 9,
+            "question": "BLANK, or CTA, are elements (generally buttons) on your website that drive certain conversions or goals such as donations, newsletter signups, or user registrations.",
+            "answer": "Call to Action"
+          }
+        ]
+      }
+    ]
   }
 }
