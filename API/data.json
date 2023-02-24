@@ -4183,7 +4183,7 @@
           },
           {
             "position": 5,
-            "question": "The <BLANK> HTML element defines the document’s title that is shown in a browser’s title bar or a page’s tab.",
+            "question": "The <BLANK> HTML element defines the document's title that is shown in a browser's title bar or a page's tab.",
             "answer": "title"
           },
           {
@@ -4386,7 +4386,7 @@
         "four": [
           {
             "position": 0,
-            "question": "The <BLANK> element is a container for metadata which is data about data. It is the first section in the code containing information about a web page’s properties and links to external related files.",
+            "question": "The <BLANK> element is a container for metadata which is data about data. It is the first section in the code containing information about a web page's properties and links to external related files.",
             "answer": "head"
           },
           {
@@ -4705,6 +4705,635 @@
       }
     ]
   },
+  "vanilla_javascript": {
+    "level": [
+      {
+        "one": [
+          {
+            "position": 0,
+            "question": "BLANK is a signal that the variable may be reassigned. Use this instead of var.",
+            "answer": "let"
+          },
+          {
+            "position": 1,
+            "question": "A JavaScript BLANK is a block of code designed to perform a particular task. It is executed when invoked or called. Instead of writing the same piece of code again and again you can put it in a BLANK and invoke the BLANK when required.",
+            "answer": "Function"
+          },
+          {
+            "position": 2,
+            "question": "BLANK is a signal that the identifier won't be reassigned.",
+            "answer": "const"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method sorts the array elements based on some condition.",
+            "answer": "sort"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method converts the array elements into strings.",
+            "answer": "toString"
+          },
+          {
+            "position": 5,
+            "question": "BLANKS are a useful feature in most programming languages. With BLANKS you can evaluate a set of instructions/functions repeatedly until certain condition is reached. They let you run code blocks as many times as you like with different values while some condition is true.",
+            "answer": "Loops"
+          },
+          {
+            "position": 6,
+            "question": "The BLANK() method reverses the order of the elements in an array.",
+            "answer": "reverse"
+          },
+          {
+            "position": 7,
+            "question": "The BLANK() method is used for joining multiple strings into a single string.",
+            "answer": "concat"
+          },
+          {
+            "position": 8,
+            "question": "The BLANK() method returns the lowest-valued number.",
+            "answer": "min"
+          },
+          {
+            "position": 9,
+            "question": "The BLANK() method returns the highest-valued number.",
+            "answer": "max"
+          },
+          {
+            "position": 10,
+            "question": "BLANK() event in invoked when a form is filled out and submitted.",
+            "answer": "onsubmit"
+          },
+          {
+            "position": 11,
+            "question": "BLANK() is a mouse event. When a user clicks on an element, an event is triggered.",
+            "answer": "onclick"
+          },
+          {
+            "position": 12,
+            "question": "BLANK() sets the current window's focus.",
+            "answer": "focus"
+          }
+        ]
+      },
+      {
+        "two": [
+          {
+            "position": 0,
+            "question": "In JavaScript, a/an BLANK is a single variable that is used to store different elements. It is often used when we want to store list of elements and access them by a single variable. A/An BLANK uses numbers as indices to access its 'elements'.",
+            "answer": "Array"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method adds a new element at the very end of an array.",
+            "answer": "push"
+          },
+          {
+            "position": 2,
+            "question": "BLANKS in JavaScript are primitive and immutable data types used for storing and manipulating text data which can be zero or more characters consisting of letters, numbers or symbols.",
+            "answer": "Strings"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method is used for converting strings to lower case.",
+            "answer": "toLowerCase"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method is used for converting strings to upper case.",
+            "answer": "toUpperCase"
+          },
+          {
+            "position": 5,
+            "question": "A/An BLANK is a datatype used to store multiple values in a single variable. each value(element) has a numeric position(index) which starts from 0 , and it may contain data of any data type.",
+            "answer": "Array"
+          },
+          {
+            "position": 6,
+            "question": "The BLANK datatype is a complex data type that allows us to store a collection of data. It contains properties defined as key-value pair.",
+            "answer": "Object"
+          },
+          {
+            "position": 7,
+            "question": "The BLANK datatype can have only two values true or false.",
+            "answer": "Boolean"
+          },
+          {
+            "position": 8,
+            "question": "The BLANK datatype is of series of multiple characters written within double or single quotes.",
+            "answer": "String"
+          },
+          {
+            "position": 9,
+            "question": "The BLANK datatype is for numeric values. They can be real or integers.",
+            "answer": "Number"
+          },
+          {
+            "position": 10,
+            "question": "This statement lets you handle the error if any are present.",
+            "answer": "catch"
+          },
+          {
+            "position": 11,
+            "question": "This statement lets you test a block of code to check for errors.",
+            "answer": "try"
+          },
+          {
+            "position": 12,
+            "question": "The BLANK property provides the window's History object.",
+            "answer": "History"
+          },
+          {
+            "position": 13,
+            "question": "The BLANK() method returns a string representation of an integer.",
+            "answer": "toString"
+          },
+          {
+            "position": 14,
+            "question": "BLANK() method prints the current window's content.",
+            "answer": "print"
+          },
+          {
+            "position": 15,
+            "question": "BLANK() method shows a message and an OK button in an alert box.",
+            "answer": "alert"
+          },
+          {
+            "position": 16,
+            "question": "BLANK() event detects the change in value of any element listing to this event.",
+            "answer": "onchange"
+          },
+          {
+            "position": 17,
+            "question": "The BLANK() method rounds the value of x to the nearest integer.",
+            "answer": "round"
+          }
+        ]
+      },
+      {
+        "three": [
+          {
+            "position": 0,
+            "question": "logical operator BLANK: When one or more than one operands are true.",
+            "answer": "OR"
+          },
+          {
+            "position": 1,
+            "question": "BLANK operators assign values to JavaScript variables. These are assign, add and assign, subtract and assign, divide and assign, modulus and assign.",
+            "answer": "Assignment"
+          },
+          {
+            "position": 2,
+            "question": "BLANK defines the accessibility or visibility of variables in JavaScript. That is, which sections of the program can access a given variable and where the variable can be seen. Using BLANK, we can avoid unintended modifications to the variables from other parts of the program.",
+            "answer": "Scope"
+          },
+          {
+            "position": 3,
+            "question": "logical operator BLANK: When all the operands are true.",
+            "answer": "AND"
+          },
+          {
+            "position": 4,
+            "question": "JavaScript BLANKS are symbols used to perform various operations on variables (operands).",
+            "answer": "operators"
+          },
+          {
+            "position": 5,
+            "question": "The BLANK() function is used for returning a number converted from what is passed as an argument to it.",
+            "answer": "Number"
+          },
+          {
+            "position": 6,
+            "question": "The BLANK datatype is a special value that represents that the variable is empty or has an unknown value. it is Equivalent to an empty string or 0.",
+            "answer": "Null"
+          },
+          {
+            "position": 7,
+            "question": "The BLANK datatype represents that the variable is declared but not assigned any value. A variable can also be emptied by setting the value to undefined.",
+            "answer": "Undefined"
+          },
+          {
+            "position": 8,
+            "question": "BLANK operators are used to perform basic arithmetic operations like addition, subtraction, multiplication, division, modulus, increment, and decrement on the variables(operands).",
+            "answer": "Arithmetic"
+          },
+          {
+            "position": 9,
+            "question": "The JavaScript BLANK operator compares the two operands as equal, not equal, identical, greater than, less than, greater than equal to, less than equal to.",
+            "answer": "Comparison"
+          },
+          {
+            "position": 10,
+            "question": "The BLANK() function is used for parsing the argument passed to it and returning an integral number.",
+            "answer": "parseInt"
+          },
+          {
+            "position": 11,
+            "question": "The BLANK() method adds elements in a particular way and position.",
+            "answer": "splice"
+          },
+          {
+            "position": 12,
+            "question": "The BLANK() method combines elements of an array into one single string and then returning it.",
+            "answer": "join"
+          },
+          {
+            "position": 13,
+            "question": "The BLANK() method returns the first index at which a given element is found in an array.",
+            "answer": "indexOf"
+          },
+          {
+            "position": 14,
+            "question": "The BLANK() method pulls a copy of a part of an array into a new array.",
+            "answer": "slice"
+          },
+          {
+            "position": 15,
+            "question": "The BLANK() method removes the first element of an array.",
+            "answer": "shift"
+          },
+          {
+            "position": 16,
+            "question": "The BLANK() method joins various arrays into a single array.",
+            "answer": "concat"
+          },
+          {
+            "position": 17,
+            "question": "The BLANK() method removes the last element of an array.",
+            "answer": "pop"
+          },
+          {
+            "position": 18,
+            "question": "The BLANK() method is used for splitting a string object into an array of strings at a particular index.",
+            "answer": "split"
+          },
+          {
+            "position": 19,
+            "question": "The BLANK() method is used for returning the primitive value of a string object. It does not change the original string.",
+            "answer": "valueOf"
+          },
+          {
+            "position": 20,
+            "question": "The BLANK() method is used for returning the character at a particular index of a string.",
+            "answer": "charAt"
+          },
+          {
+            "position": 21,
+            "question": "The BLANK() method is used to extract length characters from a given string , counting from the start index.",
+            "answer": "substr"
+          },
+          {
+            "position": 22,
+            "question": "The BLANK() method is used for finding and replacing a given text in the string.",
+            "answer": "replace"
+          },
+          {
+            "position": 23,
+            "question": "The BLANK() method returns x's square root value.",
+            "answer": "sqrt"
+          },
+          {
+            "position": 24,
+            "question": "The BLANK() method in JavaScript is used to reduce the array to a single value and executes a provided function for each value of the array (from left-to-right) and the return value of the function is stored in an accumulator.",
+            "answer": "reduce"
+          },
+          {
+            "position": 25,
+            "question": "The BLANK() method is used to create a new array from a given array consisting of only those elements from the given array which satisfy a given condition or criteria.",
+            "answer": "filter"
+          },
+          {
+            "position": 26,
+            "question": "The BLANK() method in JavaScript creates an array by calling a specific function on each element present in the parent array. BLANK() is a non-mutating method used to iterate over an array and calling function on every element of array.",
+            "answer": "map"
+          },
+          {
+            "position": 27,
+            "question": "The BLANK() method is used to return a number representing the weekday (0-6).",
+            "answer": "getDay"
+          },
+          {
+            "position": 28,
+            "question": "The BLANK() method is used to set the time (milliseconds since January 1, 1970).",
+            "answer": "setTime"
+          },
+          {
+            "position": 29,
+            "question": "The BLANK() method is used to return the current year as a four-digit value (yyyy).",
+            "answer": "getFullYear"
+          },
+          {
+            "position": 30,
+            "question": "The BLANK() method is used to return the current minute (0-59).",
+            "answer": "getMinutes"
+          },
+          {
+            "position": 31,
+            "question": "The BLANK() method is used to return the month's day as a number (1-31).",
+            "answer": "getDate"
+          },
+          {
+            "position": 32,
+            "question": "The BLANK() method returns a list of all child elements whose tag name is supplied.",
+            "answer": "getElemetsByTagName"
+          },
+          {
+            "position": 33,
+            "question": "The BLANK() method returns the value of an element node's provided attribute.",
+            "answer": "getAttribute"
+          },
+          {
+            "position": 34,
+            "question": "The BLANK() method removes a child node from an element using the Child() method.",
+            "answer": "removeChild"
+          },
+          {
+            "position": 35,
+            "question": "The BLANK() method returns true If an element has any attributes otherwise, it returns false.",
+            "answer": "hasAttributes"
+          },
+          {
+            "position": 36,
+            "question": "The BLANK() method adds a new child node as the last child node to an element.",
+            "answer": "appendChild"
+          },
+          {
+            "position": 37,
+            "question": "The BLANK() method is used for extracting an area of the string and returning it.",
+            "answer": "slice"
+          },
+          {
+            "position": 38,
+            "question": "The BLANK() method returns the natural logarithm (base E) of x.",
+            "answer": "log"
+          },
+          {
+            "position": 39,
+            "question": "The BLANK() method returns x's exponential value.",
+            "answer": "exp"
+          },
+          {
+            "position": 40,
+            "question": "BLANK() event is invoked when an element is dragged.",
+            "answer": "ondrag"
+          },
+          {
+            "position": 41,
+            "question": "BLANK() event is evoked when an element loses focus.",
+            "answer": "onblur"
+          },
+          {
+            "position": 42,
+            "question": "BLANK() event is triggered when an aspect is brought into focus.",
+            "answer": "onfocus"
+          },
+          {
+            "position": 43,
+            "question": "When an element is loaded completely, BLANK() event is evoked.",
+            "answer": "onload"
+          },
+          {
+            "position": 44,
+            "question": "BLANK() event is triggered when the user moves the mouse cursor away from an element or one of its descendants.",
+            "answer": "onmouseout"
+          },
+          {
+            "position": 45,
+            "question": "BLANK() mouse event corresponds to hovering the mouse pointer over the element and its children.",
+            "answer": "onmouseover"
+          },
+          {
+            "position": 46,
+            "question": "BLANK() event is a keyboard event and executes instructions whenever a key is released after pressing.",
+            "answer": "onkeyup"
+          },
+          {
+            "position": 47,
+            "question": "This statement lets you make your own errors.",
+            "answer": "throw"
+          },
+          {
+            "position": 48,
+            "question": "The BLANK property holds a Boolean value that represents whether the window is closed or not.",
+            "answer": "closed"
+          },
+          {
+            "position": 49,
+            "question": "The BLANK property will result the toolbar object, whose visibility can be toggled in the window.",
+            "answer": "toolbar"
+          },
+          {
+            "position": 50,
+            "question": "The BLANK property returns the window's Screen object.",
+            "answer": "screen"
+          },
+          {
+            "position": 51,
+            "question": "The BLANK property returns the current window or frame.",
+            "answer": "window"
+          },
+          {
+            "position": 52,
+            "question": "BLANK() resizes the window to the width and height supplied.",
+            "answer": "resizeTo"
+          },
+          {
+            "position": 53,
+            "question": "BLANK() closes the currently open window.",
+            "answer": "close"
+          },
+          {
+            "position": 54,
+            "question": "BLANK() it calls a function or evaluates an expression after a specified time interval.",
+            "answer": "setTimeout"
+          },
+          {
+            "position": 55,
+            "question": "BLANK() removes the current window's focus.",
+            "answer": "blur"
+          }
+        ]
+      },
+      {
+        "four": [
+          {
+            "position": 0,
+            "question": "The BLANK() method is used for finding the matches of a string against a provided pattern string.",
+            "answer": "match"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method adds new elements at the beginning of the array.",
+            "answer": "unShift"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns the primitive value of the given object.",
+            "answer": "valueOf"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method returns the final index at which a given element appears in an array.",
+            "answer": "lastIndexOf"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method is used to return the index (position) of the last occurrence of a specified value in a string. It is case-sensitive and it searches the string from the end to the beginning.",
+            "answer": "lastIndexOf"
+          },
+          {
+            "position": 5,
+            "question": "The BLANK() method is used to get the milliseconds since January 1, 1970.",
+            "answer": "getTime"
+          },
+          {
+            "position": 6,
+            "question": "A Regular BLANK is a sequence of characters that forms a search pattern. The search pattern can be used for text search and text to replace operations.",
+            "answer": "Expression"
+          },
+          {
+            "position": 7,
+            "question": "The BLANK() method returns a number in its original form.",
+            "answer": "valueOf"
+          },
+          {
+            "position": 8,
+            "question": "The BLANK() method returns the angle's(x) tangent value.",
+            "answer": "tan"
+          },
+          {
+            "position": 9,
+            "question": "The BLANK() function is used for parsing the argument passed to it and returning a floating-point number.",
+            "answer": "parseFloat"
+          },
+          {
+            "position": 10,
+            "question": "The BLANK() function is used for determining if a given value is Not a Number or not.",
+            "answer": "isNaN"
+          },
+          {
+            "position": 11,
+            "question": "The BLANK() method returns the value of x to the power of y.",
+            "answer": "pow"
+          },
+          {
+            "position": 12,
+            "question": "This statement lets you execute code, after try and catch.",
+            "answer": "finally"
+          },
+          {
+            "position": 13,
+            "question": "The BLANK property represents the number of frames in the current window.",
+            "answer": "length"
+          },
+          {
+            "position": 14,
+            "question": "The BLANK property returns a reference to the document object of that window.",
+            "answer": "document"
+          },
+          {
+            "position": 15,
+            "question": "The BLANKS property returns all <iframe> elements in the current window.",
+            "answer": "frames"
+          },
+          {
+            "position": 16,
+            "question": "The BLANK property returns the window's Navigator object.",
+            "answer": "Navigator"
+          },
+          {
+            "position": 17,
+            "question": "The BLANK() function is used for evaluating JavaScript programs presented as strings.",
+            "answer": "eval"
+          },
+          {
+            "position": 18,
+            "question": "The BLANK() function is used for creating a dialogue box for taking input from the user.",
+            "answer": "prompt"
+          },
+          {
+            "position": 19,
+            "question": "logical operator BLANK: Converts true to false.",
+            "answer": "NOT"
+          },
+          {
+            "position": 20,
+            "question": "The scope BLANK is used to resolve the value of variable names in JavaScript. Without a scope BLANK, the JavaScript engine wouldn't know which value to pick for a certain variable name if there are multiply defined at different scopes. If the JavaScript engine could not find the variable in the current scope, it will look into the outer scope and will continue to do so until it finds the variable or reaches the global scope. If it still could not find the variable, it will either implicitly declare the variable in the global scope (if not in strict mode) or return an error.",
+            "answer": "chain"
+          },
+          {
+            "position": 21,
+            "question": "BLANK() shows a conversation window asking for feedback from the visitor.",
+            "answer": "prompt"
+          },
+          {
+            "position": 22,
+            "question": "BLANK() calls a function or evaluates an expression at intervals defined by the user.",
+            "answer": "setInterval"
+          },
+          {
+            "position": 23,
+            "question": "BLANK() removes the timer that was set with setTimeout().",
+            "answer": "clearTimeout"
+          }
+        ]
+      },
+      {
+        "five": [
+          {
+            "position": 0,
+            "question": "The BLANK operators perform operations like bitwise OR, bitwise AND, XOR, NOT, right shift, and left shift on variables(operands).",
+            "answer": "Bitwise"
+          },
+          {
+            "position": 1,
+            "question": "The BLANK() method returns the sine value of x(x is in radians).",
+            "answer": "sin"
+          },
+          {
+            "position": 2,
+            "question": "The BLANK() method returns a number's string with a specified number of decimals.",
+            "answer": "toFixed"
+          },
+          {
+            "position": 3,
+            "question": "The BLANK() method converts a number to a string of a specified length.",
+            "answer": "toPricision"
+          },
+          {
+            "position": 4,
+            "question": "The BLANK() method returns a rounded number written in exponential notation as a string.",
+            "answer": "toExponential"
+          },
+          {
+            "position": 5,
+            "question": "The BLANK() method is a function that duplicates an HTML element.",
+            "answer": "cloneNode"
+          },
+          {
+            "position": 6,
+            "question": "The BLANK() method determines whether two elements are the same.",
+            "answer": "isEqualNode"
+          },
+          {
+            "position": 7,
+            "question": "The BLANK() method is used to return the number of milliseconds since January 1, 1970 from a string representation of a date.",
+            "answer": "parse"
+          },
+          {
+            "position": 8,
+            "question": "The BLANK() function is used for encoding a URI into a UTF-8 encoding scheme.",
+            "answer": "encodeURI"
+          },
+          {
+            "position": 9,
+            "question": " BLANK() is an inbuilt function in JavaScript used to search a string for a match against any regular expression.",
+            "answer": "match"
+          }
+        ]
+      }
+    ]
+  },
   "vocab": {
     "level": [
       {
@@ -4959,7 +5588,7 @@
           },
           {
             "position": 24,
-            "question": "Short for favorite icon, it’s the icon that appears in your website’s browser tab.",
+            "question": "Short for favorite icon, it's the icon that appears in your website's browser tab.",
             "answer": "Favicon"
           },
           {
@@ -5008,7 +5637,7 @@
           },
           {
             "position": 5,
-            "question": "A user’s interaction with the UI with a focus on how satisfying and successful the experience is.",
+            "question": "A user's interaction with the UI with a focus on how satisfying and successful the experience is.",
             "answer": "UX"
           },
           {
