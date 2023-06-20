@@ -1520,7 +1520,7 @@
           {
             "position": 12,
             "question": "Deletes a column in a table",
-            "answer": "DROP COLUMNL"
+            "answer": "DROP COLUMN"
           }
         ]
       },
@@ -4158,7 +4158,7 @@
         "two": [
           {
             "position": 0,
-            "question": "<BLANK> This is the Smallest among all. </BLANK>",
+            "question": "<BLANK> This is the smallest heading among all. </BLANK>",
             "answer": "h6"
           },
           {
